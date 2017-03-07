@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25321545": {
+    "contest_id": 281,
+    "language": "FPC",
+    "path": "codeforces\\281\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Word Capitalization",
+    "problem_url": "https://codeforces.com/contest/281/problem/A",
+    "submission_id": "CF25321545",
+    "submission_url": "https://codeforces.com/contest/281/submission/25321545",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/07/2017 20:05"
+  },
   "CF25321814": {
     "contest_id": 231,
     "language": "FPC",
