@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25320037": {
+    "contest_id": 96,
+    "language": "FPC",
+    "path": "codeforces\\96\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Football",
+    "problem_url": "https://codeforces.com/contest/96/problem/A",
+    "submission_id": "CF25320037",
+    "submission_url": "https://codeforces.com/contest/96/submission/25320037",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Mar/07/2017 18:50"
+  },
   "CF25320501": {
     "contest_id": 158,
     "language": "FPC",
