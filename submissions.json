@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25321814": {
+    "contest_id": 231,
+    "language": "FPC",
+    "path": "codeforces\\231\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Team",
+    "problem_url": "https://codeforces.com/contest/231/problem/A",
+    "submission_id": "CF25321814",
+    "submission_url": "https://codeforces.com/contest/231/submission/25321814",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Mar/07/2017 20:20"
+  },
   "CF25336975": {
     "contest_id": 266,
     "language": "FPC",
