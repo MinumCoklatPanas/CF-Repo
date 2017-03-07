@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25321369": {
+    "contest_id": 282,
+    "language": "FPC",
+    "path": "codeforces\\282\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Bit++",
+    "problem_url": "https://codeforces.com/contest/282/problem/A",
+    "submission_id": "CF25321369",
+    "submission_url": "https://codeforces.com/contest/282/submission/25321369",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/07/2017 19:56"
+  },
   "CF25321545": {
     "contest_id": 281,
     "language": "FPC",
