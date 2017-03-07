@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25319772": {
+    "contest_id": 118,
+    "language": "FPC",
+    "path": "codeforces\\118\\A.pas",
+    "problem_index": "A",
+    "problem_name": "String Task",
+    "problem_url": "https://codeforces.com/contest/118/problem/A",
+    "submission_id": "CF25319772",
+    "submission_url": "https://codeforces.com/contest/118/submission/25319772",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Mar/07/2017 18:39"
+  },
   "CF25320037": {
     "contest_id": 96,
     "language": "FPC",
