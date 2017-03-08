@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25336975": {
+    "contest_id": 266,
+    "language": "FPC",
+    "path": "codeforces\\266\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Stones on the Table",
+    "problem_url": "https://codeforces.com/contest/266/problem/A",
+    "submission_id": "CF25336975",
+    "submission_url": "https://codeforces.com/contest/266/submission/25336975",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/08/2017 15:40"
+  },
   "CF25338128": {
     "contest_id": 112,
     "language": "FPC",
