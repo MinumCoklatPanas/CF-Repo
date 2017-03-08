@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25338128": {
+    "contest_id": 112,
+    "language": "FPC",
+    "path": "codeforces\\112\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Petya and Strings",
+    "problem_url": "https://codeforces.com/contest/112/problem/A",
+    "submission_id": "CF25338128",
+    "submission_url": "https://codeforces.com/contest/112/submission/25338128",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/08/2017 16:39"
+  },
   "CF25338798": {
     "contest_id": 263,
     "language": "FPC",
