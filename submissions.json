@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25338798": {
+    "contest_id": 263,
+    "language": "FPC",
+    "path": "codeforces\\263\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Beautiful Matrix",
+    "problem_url": "https://codeforces.com/contest/263/problem/A",
+    "submission_id": "CF25338798",
+    "submission_url": "https://codeforces.com/contest/263/submission/25338798",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/08/2017 17:23"
+  },
   "CF25384527": {
     "contest_id": 339,
     "language": "FPC",
