@@ -687,6 +687,24 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25384527": {
+    "contest_id": 339,
+    "language": "FPC",
+    "path": "codeforces\\339\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Helpful Maths",
+    "problem_url": "https://codeforces.com/contest/339/problem/A",
+    "submission_id": "CF25384527",
+    "submission_url": "https://codeforces.com/contest/339/submission/25384527",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/10/2017 23:45"
+  },
   "CF25423962": {
     "contest_id": 236,
     "language": "FPC",
