@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25424385": {
+    "contest_id": 519,
+    "language": "FPC",
+    "path": "codeforces\\519\\A.pas",
+    "problem_index": "A",
+    "problem_name": "A and B and Chess",
+    "problem_url": "https://codeforces.com/contest/519/problem/A",
+    "submission_id": "CF25424385",
+    "submission_url": "https://codeforces.com/contest/519/submission/25424385",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Mar/12/2017 12:33"
+  },
   "CF25462874": {
     "contest_id": 546,
     "language": "FPC",
