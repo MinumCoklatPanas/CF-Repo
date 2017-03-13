@@ -687,6 +687,23 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25462874": {
+    "contest_id": 546,
+    "language": "FPC",
+    "path": "codeforces\\546\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Soldier and Bananas",
+    "problem_url": "https://codeforces.com/contest/546/problem/A",
+    "submission_id": "CF25462874",
+    "submission_url": "https://codeforces.com/contest/546/submission/25462874",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/14/2017 05:03"
+  },
   "CF25462918": {
     "contest_id": 467,
     "language": "FPC",
