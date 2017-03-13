@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25463107": {
+    "contest_id": 758,
+    "language": "FPC",
+    "path": "codeforces\\758\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Holiday Of Equality",
+    "problem_url": "https://codeforces.com/contest/758/problem/A",
+    "submission_id": "CF25463107",
+    "submission_url": "https://codeforces.com/contest/758/submission/25463107",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/14/2017 05:30"
+  },
   "CF25463289": {
     "contest_id": 59,
     "language": "FPC",
