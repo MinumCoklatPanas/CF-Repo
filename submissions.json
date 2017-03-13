@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25463289": {
+    "contest_id": 59,
+    "language": "FPC",
+    "path": "codeforces\\59\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Word",
+    "problem_url": "https://codeforces.com/contest/59/problem/A",
+    "submission_id": "CF25463289",
+    "submission_url": "https://codeforces.com/contest/59/submission/25463289",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/14/2017 05:57"
+  },
   "CF25467240": {
     "contest_id": 271,
     "language": "FPC",
