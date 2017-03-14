@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25467240": {
+    "contest_id": 271,
+    "language": "FPC",
+    "path": "codeforces\\271\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Beautiful Year",
+    "problem_url": "https://codeforces.com/contest/271/problem/A",
+    "submission_id": "CF25467240",
+    "submission_url": "https://codeforces.com/contest/271/submission/25467240",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Mar/14/2017 13:57"
+  },
   "CF25835728": {
     "contest_id": 769,
     "language": "FPC",
