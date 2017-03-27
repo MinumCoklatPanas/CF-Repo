@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25838249": {
+    "contest_id": 132,
+    "language": "FPC",
+    "path": "codeforces\\132\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Turing Tape",
+    "problem_url": "https://codeforces.com/contest/132/problem/A",
+    "submission_id": "CF25838249",
+    "submission_url": "https://codeforces.com/contest/132/submission/25838249",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Mar/27/2017 19:38"
+  },
   "CF25838786": {
     "contest_id": 4,
     "language": "FPC",
