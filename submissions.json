@@ -687,6 +687,23 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25835728": {
+    "contest_id": 769,
+    "language": "FPC",
+    "path": "codeforces\\769\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Year of University Entrance",
+    "problem_url": "https://codeforces.com/contest/769/problem/A",
+    "submission_id": "CF25835728",
+    "submission_url": "https://codeforces.com/contest/769/submission/25835728",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Mar/27/2017 17:13"
+  },
   "CF25838249": {
     "contest_id": 132,
     "language": "FPC",
