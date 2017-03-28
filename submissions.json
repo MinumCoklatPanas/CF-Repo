@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25881176": {
+    "contest_id": 709,
+    "language": "FPC",
+    "path": "codeforces\\709\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Juicer",
+    "problem_url": "https://codeforces.com/contest/709/problem/A",
+    "submission_id": "CF25881176",
+    "submission_url": "https://codeforces.com/contest/709/submission/25881176",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Mar/29/2017 01:21"
+  },
   "CF25965735": {
     "contest_id": 722,
     "language": "FPC",
