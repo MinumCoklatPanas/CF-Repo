@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25880454": {
+    "contest_id": 707,
+    "language": "FPC",
+    "path": "codeforces\\707\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Brain's Photos",
+    "problem_url": "https://codeforces.com/contest/707/problem/A",
+    "submission_id": "CF25880454",
+    "submission_url": "https://codeforces.com/contest/707/submission/25880454",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/29/2017 00:40"
+  },
   "CF25880771": {
     "contest_id": 490,
     "language": "FPC",
