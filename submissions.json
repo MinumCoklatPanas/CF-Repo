@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25880101": {
+    "contest_id": 94,
+    "language": "FPC",
+    "path": "codeforces\\94\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Restoring Password",
+    "problem_url": "https://codeforces.com/contest/94/problem/A",
+    "submission_id": "CF25880101",
+    "submission_url": "https://codeforces.com/contest/94/submission/25880101",
+    "tags": [
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Mar/29/2017 00:23"
+  },
   "CF25880454": {
     "contest_id": 707,
     "language": "FPC",
