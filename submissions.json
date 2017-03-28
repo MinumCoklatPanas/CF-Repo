@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25879795": {
+    "contest_id": 424,
+    "language": "FPC",
+    "path": "codeforces\\424\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Squats",
+    "problem_url": "https://codeforces.com/contest/424/problem/A",
+    "submission_id": "CF25879795",
+    "submission_url": "https://codeforces.com/contest/424/submission/25879795",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Mar/29/2017 00:09"
+  },
   "CF25880101": {
     "contest_id": 94,
     "language": "FPC",
