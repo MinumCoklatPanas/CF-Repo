@@ -687,6 +687,23 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25880771": {
+    "contest_id": 490,
+    "language": "FPC",
+    "path": "codeforces\\490\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Team Olympiad",
+    "problem_url": "https://codeforces.com/contest/490/problem/A",
+    "submission_id": "CF25880771",
+    "submission_url": "https://codeforces.com/contest/490/submission/25880771",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Mar/29/2017 00:57"
+  },
   "CF25881176": {
     "contest_id": 709,
     "language": "FPC",
