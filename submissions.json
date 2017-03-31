@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25970978": {
+    "contest_id": 722,
+    "language": "FPC",
+    "path": "codeforces\\722\\B.pas",
+    "problem_index": "B",
+    "problem_name": "Verse Pattern",
+    "problem_url": "https://codeforces.com/contest/722/problem/B",
+    "submission_id": "CF25970978",
+    "submission_url": "https://codeforces.com/contest/722/submission/25970978",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Mar/31/2017 15:07"
+  },
   "CF26038535": {
     "contest_id": 724,
     "language": "FPC",
