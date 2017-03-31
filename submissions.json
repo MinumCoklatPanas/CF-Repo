@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF25965735": {
+    "contest_id": 722,
+    "language": "FPC",
+    "path": "codeforces\\722\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Broken Clock",
+    "problem_url": "https://codeforces.com/contest/722/problem/A",
+    "submission_id": "CF25965735",
+    "submission_url": "https://codeforces.com/contest/722/submission/25965735",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Mar/31/2017 07:30"
+  },
   "CF25970978": {
     "contest_id": 722,
     "language": "FPC",
