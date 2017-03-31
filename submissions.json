@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF26038535": {
+    "contest_id": 724,
+    "language": "FPC",
+    "path": "codeforces\\724\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Checking the Calendar",
+    "problem_url": "https://codeforces.com/contest/724/problem/A",
+    "submission_id": "CF26038535",
+    "submission_url": "https://codeforces.com/contest/724/submission/26038535",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Apr/01/2017 06:44"
+  },
   "CF26038865": {
     "contest_id": 14,
     "language": "FPC",
