@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF26038993": {
+    "contest_id": 701,
+    "language": "FPC",
+    "path": "codeforces\\701\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Cards",
+    "problem_url": "https://codeforces.com/contest/701/problem/A",
+    "submission_id": "CF26038993",
+    "submission_url": "https://codeforces.com/contest/701/submission/26038993",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/01/2017 07:27"
+  },
   "CF26081232": {
     "contest_id": 764,
     "language": "FPC",
