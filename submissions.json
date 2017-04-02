@@ -687,6 +687,23 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF26081232": {
+    "contest_id": 764,
+    "language": "FPC",
+    "path": "codeforces\\764\\A.pas",
+    "problem_index": "A",
+    "problem_name": "Taymyr is calling you",
+    "problem_url": "https://codeforces.com/contest/764/problem/A",
+    "submission_id": "CF26081232",
+    "submission_url": "https://codeforces.com/contest/764/submission/26081232",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/02/2017 22:38"
+  },
   "CF26082060": {
     "contest_id": 721,
     "language": "FPC",
