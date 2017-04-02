@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF26082060": {
+    "contest_id": 721,
+    "language": "FPC",
+    "path": "codeforces\\721\\A.pas",
+    "problem_index": "A",
+    "problem_name": "One-dimensional Japanese Crossword",
+    "problem_url": "https://codeforces.com/contest/721/problem/A",
+    "submission_id": "CF26082060",
+    "submission_url": "https://codeforces.com/contest/721/submission/26082060",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/02/2017 23:31"
+  },
   "CF26116396": {
     "contest_id": 750,
     "language": "FPC",
