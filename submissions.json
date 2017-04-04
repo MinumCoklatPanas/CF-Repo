@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF26116396": {
+    "contest_id": 750,
+    "language": "FPC",
+    "path": "codeforces\\750\\B.pas",
+    "problem_index": "B",
+    "problem_name": "New Year and North Pole",
+    "problem_url": "https://codeforces.com/contest/750/problem/B",
+    "submission_id": "CF26116396",
+    "submission_url": "https://codeforces.com/contest/750/submission/26116396",
+    "tags": [
+      "geometry",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Apr/04/2017 15:05"
+  },
   "CF26290446": {
     "contest_id": 796,
     "language": "GNU C++11",
