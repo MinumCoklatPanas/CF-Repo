@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF26290446": {
+    "contest_id": 796,
+    "language": "GNU C++11",
+    "path": "codeforces\\796\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Buying A House",
+    "problem_url": "https://codeforces.com/contest/796/problem/A",
+    "submission_id": "CF26290446",
+    "submission_url": "https://codeforces.com/contest/796/submission/26290446",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Apr/11/2017 12:29"
+  },
   "CF26296772": {
     "contest_id": 796,
     "language": "GNU C++11",
