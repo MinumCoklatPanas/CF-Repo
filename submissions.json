@@ -687,6 +687,23 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF26304933": {
+    "contest_id": 774,
+    "language": "GNU C++11",
+    "path": "codeforces\\774\\K.cpp",
+    "problem_index": "K",
+    "problem_name": "Stepan and Vowels",
+    "problem_url": "https://codeforces.com/contest/774/problem/K",
+    "submission_id": "CF26304933",
+    "submission_url": "https://codeforces.com/contest/774/submission/26304933",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "Apr/12/2017 00:38"
+  },
   "CF26475341": {
     "contest_id": 801,
     "language": "GNU C++11",
