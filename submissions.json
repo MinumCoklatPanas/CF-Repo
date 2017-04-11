@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF26296772": {
+    "contest_id": 796,
+    "language": "GNU C++11",
+    "path": "codeforces\\796\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Find The Bone",
+    "problem_url": "https://codeforces.com/contest/796/problem/B",
+    "submission_id": "CF26296772",
+    "submission_url": "https://codeforces.com/contest/796/submission/26296772",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Apr/11/2017 18:20"
+  },
   "CF26297123": {
     "contest_id": 792,
     "language": "GNU C++11",
