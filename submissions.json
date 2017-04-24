@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF26649896": {
+    "contest_id": 697,
+    "language": "GNU C++11",
+    "path": "codeforces\\697\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Pineapple Incident",
+    "problem_url": "https://codeforces.com/contest/697/problem/A",
+    "submission_id": "CF26649896",
+    "submission_url": "https://codeforces.com/contest/697/submission/26649896",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Apr/25/2017 05:33"
+  },
   "CF26650009": {
     "contest_id": 507,
     "language": "GNU C++11",
