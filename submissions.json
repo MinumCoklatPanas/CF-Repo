@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF27664671": {
+    "contest_id": 814,
+    "language": "GNU C++11",
+    "path": "codeforces\\814\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "An express train to reveries",
+    "problem_url": "https://codeforces.com/contest/814/problem/B",
+    "submission_id": "CF27664671",
+    "submission_url": "https://codeforces.com/contest/814/submission/27664671",
+    "tags": [
+      "constructive algorithms",
+      "*1300"
+    ],
+    "timestamp": "Jun/08/2017 13:43"
+  },
   "CF27855791": {
     "contest_id": 816,
     "language": "GNU C++11",
