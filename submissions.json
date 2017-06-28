@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF28108339": {
+    "contest_id": 768,
+    "language": "GNU C++11",
+    "path": "codeforces\\768\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Oath of the Night's Watch",
+    "problem_url": "https://codeforces.com/contest/768/problem/A",
+    "submission_id": "CF28108339",
+    "submission_url": "https://codeforces.com/contest/768/submission/28108339",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jun/28/2017 12:30"
+  },
   "CF28208919": {
     "contest_id": 818,
     "language": "GNU C++11",
