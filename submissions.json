@@ -143,6 +143,22 @@
     ],
     "timestamp": "May/02/2020 20:40"
   },
+  "AC1398300": {
+    "contest_id": "abc066",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc066\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "ringring",
+    "problem_url": "https://atcoder.jp/contests/abc066/tasks/abc066_a",
+    "submission_id": "AC1398300",
+    "submission_url": "https://atcoder.jp/contests/abc066/submissions/1398300",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/02/2017 07:25"
+  },
   "AC1398354": {
     "contest_id": "abc066",
     "language": "C++14 (GCC 5.4.1)",
