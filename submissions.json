@@ -143,6 +143,22 @@
     ],
     "timestamp": "May/02/2020 20:40"
   },
+  "AC1398354": {
+    "contest_id": "abc066",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc066\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "ss",
+    "problem_url": "https://atcoder.jp/contests/abc066/tasks/abc066_b",
+    "submission_id": "AC1398354",
+    "submission_url": "https://atcoder.jp/contests/abc066/submissions/1398354",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/02/2017 08:05"
+  },
   "AC1404338": {
     "contest_id": "abc066",
     "language": "C++14 (GCC 5.4.1)",
