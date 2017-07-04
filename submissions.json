@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF28277515": {
+    "contest_id": 818,
+    "language": "GNU C++11",
+    "path": "codeforces\\818\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Permutation Game",
+    "problem_url": "https://codeforces.com/contest/818/problem/B",
+    "submission_id": "CF28277515",
+    "submission_url": "https://codeforces.com/contest/818/submission/28277515",
+    "tags": [
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Jul/04/2017 17:26"
+  },
   "CF28300649": {
     "contest_id": 822,
     "language": "GNU C++11",
