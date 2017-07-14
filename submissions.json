@@ -143,6 +143,22 @@
     ],
     "timestamp": "May/02/2020 20:40"
   },
+  "AC1420116": {
+    "contest_id": "abc042",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc042\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Iroha's Obsession",
+    "problem_url": "https://atcoder.jp/contests/abc042/tasks/arc058_a",
+    "submission_id": "AC1420116",
+    "submission_url": "https://atcoder.jp/contests/abc042/submissions/1420116",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jul/14/2017 17:30"
+  },
   "AC14287550": {
     "contest_id": "abc170",
     "language": "C++ (GCC 9.2.1)",
