@@ -143,6 +143,22 @@
     ],
     "timestamp": "May/02/2020 20:40"
   },
+  "AC1420097": {
+    "contest_id": "abc042",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc042\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Iroha Loves Strings (ABC Edition)",
+    "problem_url": "https://atcoder.jp/contests/abc042/tasks/abc042_b",
+    "submission_id": "AC1420097",
+    "submission_url": "https://atcoder.jp/contests/abc042/submissions/1420097",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/14/2017 17:20"
+  },
   "AC1420116": {
     "contest_id": "abc042",
     "language": "C++14 (GCC 5.4.1)",
