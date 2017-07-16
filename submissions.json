@@ -223,6 +223,22 @@
     ],
     "timestamp": "Jun/14/2020 19:32"
   },
+  "AC1432604": {
+    "contest_id": "abc067",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc067\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Sharing Cookies",
+    "problem_url": "https://atcoder.jp/contests/abc067/tasks/abc067_a",
+    "submission_id": "AC1432604",
+    "submission_url": "https://atcoder.jp/contests/abc067/submissions/1432604",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jul/16/2017 10:08"
+  },
   "AC1432613": {
     "contest_id": "abc067",
     "language": "C++14 (GCC 5.4.1)",
