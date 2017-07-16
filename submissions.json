@@ -223,6 +223,22 @@
     ],
     "timestamp": "Jun/14/2020 19:32"
   },
+  "AC1432613": {
+    "contest_id": "abc067",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc067\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Snake Toy",
+    "problem_url": "https://atcoder.jp/contests/abc067/tasks/abc067_b",
+    "submission_id": "AC1432613",
+    "submission_url": "https://atcoder.jp/contests/abc067/submissions/1432613",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/16/2017 10:12"
+  },
   "AC1432655": {
     "contest_id": "abc067",
     "language": "C++14 (GCC 5.4.1)",
