@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF29053281": {
+    "contest_id": 835,
+    "language": "GNU C++11",
+    "path": "codeforces\\835\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Key races",
+    "problem_url": "https://codeforces.com/contest/835/problem/A",
+    "submission_id": "CF29053281",
+    "submission_url": "https://codeforces.com/contest/835/submission/29053281",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/31/2017 21:41"
+  },
   "CF29061920": {
     "contest_id": 835,
     "language": "GNU C++11",
