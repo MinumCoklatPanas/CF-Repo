@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF29168532": {
+    "contest_id": 837,
+    "language": "GNU C++11",
+    "path": "codeforces\\837\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Flag of Berland",
+    "problem_url": "https://codeforces.com/contest/837/problem/B",
+    "submission_id": "CF29168532",
+    "submission_url": "https://codeforces.com/contest/837/submission/29168532",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Aug/03/2017 23:28"
+  },
   "CF29254964": {
     "contest_id": 479,
     "language": "GNU C++11",
