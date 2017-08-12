@@ -367,6 +367,22 @@
     ],
     "timestamp": "Jun/27/2020 19:11"
   },
+  "AC1504180": {
+    "contest_id": "abc070",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc070\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Palindromic Number",
+    "problem_url": "https://atcoder.jp/contests/abc070/tasks/abc070_a",
+    "submission_id": "AC1504180",
+    "submission_url": "https://atcoder.jp/contests/abc070/submissions/1504180",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Aug/12/2017 19:02"
+  },
   "AC1505181": {
     "contest_id": "abc070",
     "language": "C++14 (GCC 5.4.1)",
