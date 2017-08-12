@@ -367,6 +367,22 @@
     ],
     "timestamp": "Jun/27/2020 19:11"
   },
+  "AC1505181": {
+    "contest_id": "abc070",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc070\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Two Switches",
+    "problem_url": "https://atcoder.jp/contests/abc070/tasks/abc070_b",
+    "submission_id": "AC1505181",
+    "submission_url": "https://atcoder.jp/contests/abc070/submissions/1505181",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Aug/12/2017 19:08"
+  },
   "AC15142242": {
     "contest_id": "aising2020",
     "language": "C++ (GCC 9.2.1)",
