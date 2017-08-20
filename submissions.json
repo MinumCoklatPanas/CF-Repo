@@ -431,6 +431,22 @@
     ],
     "timestamp": "Jul/11/2020 20:25"
   },
+  "AC1521827": {
+    "contest_id": "abc071",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc071\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Meal Delivery",
+    "problem_url": "https://atcoder.jp/contests/abc071/tasks/abc071_a",
+    "submission_id": "AC1521827",
+    "submission_url": "https://atcoder.jp/contests/abc071/submissions/1521827",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Aug/20/2017 19:02"
+  },
   "AC1522584": {
     "contest_id": "abc071",
     "language": "C++14 (GCC 5.4.1)",
