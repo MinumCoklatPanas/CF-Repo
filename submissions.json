@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF29648264": {
+    "contest_id": 845,
+    "language": "GNU C++11",
+    "path": "codeforces\\845\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Chess Tourney",
+    "problem_url": "https://codeforces.com/contest/845/problem/A",
+    "submission_id": "CF29648264",
+    "submission_url": "https://codeforces.com/contest/845/submission/29648264",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Aug/21/2017 22:14"
+  },
   "CF29706478": {
     "contest_id": 845,
     "language": "GNU C++11",
