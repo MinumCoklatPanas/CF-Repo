@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF29895799": {
+    "contest_id": 842,
+    "language": "GNU C++11",
+    "path": "codeforces\\842\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Kirill And The Game",
+    "problem_url": "https://codeforces.com/contest/842/problem/A",
+    "submission_id": "CF29895799",
+    "submission_url": "https://codeforces.com/contest/842/submission/29895799",
+    "tags": [
+      "brute force",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Aug/29/2017 23:55"
+  },
   "CF29976313": {
     "contest_id": 849,
     "language": "GNU C++11",
