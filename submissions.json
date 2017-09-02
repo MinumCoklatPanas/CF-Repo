@@ -575,6 +575,22 @@
     ],
     "timestamp": "Jul/26/2020 06:31"
   },
+  "AC1557236": {
+    "contest_id": "abc072",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc072\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Sandglass2",
+    "problem_url": "https://atcoder.jp/contests/abc072/tasks/abc072_a",
+    "submission_id": "AC1557236",
+    "submission_url": "https://atcoder.jp/contests/abc072/submissions/1557236",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/02/2017 19:01"
+  },
   "AC1558030": {
     "contest_id": "abc072",
     "language": "C++14 (GCC 5.4.1)",
