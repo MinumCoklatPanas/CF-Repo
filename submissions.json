@@ -575,6 +575,22 @@
     ],
     "timestamp": "Jul/26/2020 06:31"
   },
+  "AC1558030": {
+    "contest_id": "abc072",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc072\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "OddString",
+    "problem_url": "https://atcoder.jp/contests/abc072/tasks/abc072_b",
+    "submission_id": "AC1558030",
+    "submission_url": "https://atcoder.jp/contests/abc072/submissions/1558030",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Sep/02/2017 19:04"
+  },
   "AC1558908": {
     "contest_id": "abc072",
     "language": "C++14 (GCC 5.4.1)",
