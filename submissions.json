@@ -639,6 +639,22 @@
     ],
     "timestamp": "Aug/02/2020 19:23"
   },
+  "AC1561413": {
+    "contest_id": "abc072",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc072\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Derangement",
+    "problem_url": "https://atcoder.jp/contests/abc072/tasks/arc082_b",
+    "submission_id": "AC1561413",
+    "submission_url": "https://atcoder.jp/contests/abc072/submissions/1561413",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Sep/02/2017 19:36"
+  },
   "AC15617579": {
     "contest_id": "abc174",
     "language": "C++ (GCC 9.2.1)",
