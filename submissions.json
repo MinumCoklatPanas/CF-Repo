@@ -687,6 +687,23 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF30133048": {
+    "contest_id": 854,
+    "language": "GNU C++11",
+    "path": "codeforces\\854\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Fraction",
+    "problem_url": "https://codeforces.com/contest/854/problem/A",
+    "submission_id": "CF30133048",
+    "submission_url": "https://codeforces.com/contest/854/submission/30133048",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/06/2017 20:00"
+  },
   "CF30407479": {
     "contest_id": 859,
     "language": "GNU C++11",
