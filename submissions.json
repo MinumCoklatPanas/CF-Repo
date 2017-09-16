@@ -767,6 +767,22 @@
     ],
     "timestamp": "Aug/15/2020 19:41"
   },
+  "AC1601878": {
+    "contest_id": "abc074",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc074\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Restoring Road Network",
+    "problem_url": "https://atcoder.jp/contests/abc074/tasks/arc083_b",
+    "submission_id": "AC1601878",
+    "submission_url": "https://atcoder.jp/contests/abc074/submissions/1601878",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Sep/16/2017 22:01"
+  },
   "AC1624275": {
     "contest_id": "code-festival-2017-quala",
     "language": "C++14 (GCC 5.4.1)",
