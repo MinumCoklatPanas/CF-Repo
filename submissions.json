@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF30582455": {
+    "contest_id": 863,
+    "language": "GNU C++11",
+    "path": "codeforces\\863\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Quasi-palindrome",
+    "problem_url": "https://codeforces.com/contest/863/problem/A",
+    "submission_id": "CF30582455",
+    "submission_url": "https://codeforces.com/contest/863/submission/30582455",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Sep/21/2017 22:11"
+  },
   "CF30669214": {
     "contest_id": 855,
     "language": "GNU C++11",
