@@ -767,6 +767,22 @@
     ],
     "timestamp": "Aug/15/2020 19:41"
   },
+  "AC1624275": {
+    "contest_id": "code-festival-2017-quala",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\code-festival-2017-quala\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Snuke's favorite YAKINIKU",
+    "problem_url": "https://atcoder.jp/contests/code-festival-2017-quala/tasks/code_festival_2017_quala_a",
+    "submission_id": "AC1624275",
+    "submission_url": "https://atcoder.jp/contests/code-festival-2017-quala/submissions/1624275",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/24/2017 05:57"
+  },
   "AC1669869": {
     "contest_id": "code-festival-2017-qualb",
     "language": "C++14 (GCC 5.4.1)",
