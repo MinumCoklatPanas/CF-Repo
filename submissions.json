@@ -767,6 +767,22 @@
     ],
     "timestamp": "Aug/15/2020 19:41"
   },
+  "AC1669869": {
+    "contest_id": "code-festival-2017-qualb",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\code-festival-2017-qualb\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "XXFESTIVAL",
+    "problem_url": "https://atcoder.jp/contests/code-festival-2017-qualb/tasks/code_festival_2017_qualb_a",
+    "submission_id": "AC1669869",
+    "submission_url": "https://atcoder.jp/contests/code-festival-2017-qualb/submissions/1669869",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Oct/08/2017 21:07"
+  },
   "AC1670044": {
     "contest_id": "code-festival-2017-qualb",
     "language": "C++14 (GCC 5.4.1)",
