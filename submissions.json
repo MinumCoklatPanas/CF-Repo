@@ -799,6 +799,22 @@
     ],
     "timestamp": "Sep/14/2020 18:30"
   },
+  "AC1686641": {
+    "contest_id": "abc075",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc075\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Minesweeper",
+    "problem_url": "https://atcoder.jp/contests/abc075/tasks/abc075_b",
+    "submission_id": "AC1686641",
+    "submission_url": "https://atcoder.jp/contests/abc075/submissions/1686641",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Oct/15/2017 12:54"
+  },
   "AC1699240": {
     "contest_id": "code-festival-2017-qualc",
     "language": "C++14 (GCC 5.4.1)",
