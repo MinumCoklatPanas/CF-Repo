@@ -799,6 +799,22 @@
     ],
     "timestamp": "Sep/14/2020 18:30"
   },
+  "AC1699240": {
+    "contest_id": "code-festival-2017-qualc",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\code-festival-2017-qualc\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Can you get AC?",
+    "problem_url": "https://atcoder.jp/contests/code-festival-2017-qualc/tasks/code_festival_2017_qualc_a",
+    "submission_id": "AC1699240",
+    "submission_url": "https://atcoder.jp/contests/code-festival-2017-qualc/submissions/1699240",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Oct/22/2017 19:02"
+  },
   "AC1700432": {
     "contest_id": "code-festival-2017-qualc",
     "language": "C++14 (GCC 5.4.1)",
