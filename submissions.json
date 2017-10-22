@@ -799,6 +799,22 @@
     ],
     "timestamp": "Sep/14/2020 18:30"
   },
+  "AC1700432": {
+    "contest_id": "code-festival-2017-qualc",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\code-festival-2017-qualc\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Similar Arrays",
+    "problem_url": "https://atcoder.jp/contests/code-festival-2017-qualc/tasks/code_festival_2017_qualc_b",
+    "submission_id": "AC1700432",
+    "submission_url": "https://atcoder.jp/contests/code-festival-2017-qualc/submissions/1700432",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Oct/22/2017 19:08"
+  },
   "AC17021670": {
     "contest_id": "abl",
     "language": "C++ (GCC 9.2.1)",
