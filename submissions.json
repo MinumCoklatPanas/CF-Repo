@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF31855926": {
+    "contest_id": 879,
+    "language": "GNU C++11",
+    "path": "codeforces\\879\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Table Tennis",
+    "problem_url": "https://codeforces.com/contest/879/problem/B",
+    "submission_id": "CF31855926",
+    "submission_url": "https://codeforces.com/contest/879/submission/31855926",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Oct/29/2017 11:51"
+  },
   "CF31856231": {
     "contest_id": 879,
     "language": "GNU C++11",
