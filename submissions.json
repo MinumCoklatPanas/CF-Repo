@@ -927,6 +927,22 @@
     ],
     "timestamp": "Oct/17/2020 18:10"
   },
+  "AC1759288": {
+    "contest_id": "abc078",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc078\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "HEX",
+    "problem_url": "https://atcoder.jp/contests/abc078/tasks/abc078_a",
+    "submission_id": "AC1759288",
+    "submission_url": "https://atcoder.jp/contests/abc078/submissions/1759288",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Nov/11/2017 19:01"
+  },
   "AC1759757": {
     "contest_id": "abc078",
     "language": "C++14 (GCC 5.4.1)",
