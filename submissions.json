@@ -927,6 +927,22 @@
     ],
     "timestamp": "Oct/17/2020 18:10"
   },
+  "AC1761601": {
+    "contest_id": "abc078",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc078\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "HSI",
+    "problem_url": "https://atcoder.jp/contests/abc078/tasks/arc085_a",
+    "submission_id": "AC1761601",
+    "submission_url": "https://atcoder.jp/contests/abc078/submissions/1761601",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Nov/11/2017 19:30"
+  },
   "AC18144292": {
     "contest_id": "abc183",
     "language": "C++ (GCC 9.2.1)",
