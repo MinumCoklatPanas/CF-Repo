@@ -975,6 +975,22 @@
     ],
     "timestamp": "Nov/15/2020 20:04"
   },
+  "AC1827207": {
+    "contest_id": "abc080",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc080\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Harshad Number",
+    "problem_url": "https://atcoder.jp/contests/abc080/tasks/abc080_b",
+    "submission_id": "AC1827207",
+    "submission_url": "https://atcoder.jp/contests/abc080/submissions/1827207",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/03/2017 19:05"
+  },
   "AC1827224": {
     "contest_id": "abc080",
     "language": "C++14 (GCC 5.4.1)",
