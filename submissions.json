@@ -1039,6 +1039,22 @@
     ],
     "timestamp": "Nov/22/2020 19:52"
   },
+  "AC1857422": {
+    "contest_id": "abc081",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc081\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Placing Marbles",
+    "problem_url": "https://atcoder.jp/contests/abc081/tasks/abc081_a",
+    "submission_id": "AC1857422",
+    "submission_url": "https://atcoder.jp/contests/abc081/submissions/1857422",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/10/2017 19:01"
+  },
   "AC1858102": {
     "contest_id": "abc081",
     "language": "C++14 (GCC 5.4.1)",
