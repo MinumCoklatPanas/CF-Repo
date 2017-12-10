@@ -1039,6 +1039,22 @@
     ],
     "timestamp": "Nov/22/2020 19:52"
   },
+  "AC1858102": {
+    "contest_id": "abc081",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc081\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Shift only",
+    "problem_url": "https://atcoder.jp/contests/abc081/tasks/abc081_b",
+    "submission_id": "AC1858102",
+    "submission_url": "https://atcoder.jp/contests/abc081/submissions/1858102",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/10/2017 19:05"
+  },
   "AC1859039": {
     "contest_id": "abc081",
     "language": "C++14 (GCC 5.4.1)",
