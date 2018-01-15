@@ -69,8 +69,6 @@ void Tarjan(long long u)
 int main()
 {
 //	freopen("input.txt","r",stdin);
-	ios_base::sync_with_stdio(false);
-	cin.tie(NULL);
 	long long n;
 	cin>>n;
 	reset();
