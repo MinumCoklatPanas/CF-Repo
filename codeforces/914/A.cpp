@@ -12,7 +12,6 @@ bool square(int x)
 int main()
 {
 	int n;
-	int a;
 	cin>>n;
 	int tab[1010];
 	for (int i=1;i<=n;i++)
