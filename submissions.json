@@ -1039,6 +1039,22 @@
     ],
     "timestamp": "Nov/22/2020 19:52"
   },
+  "AC2026435": {
+    "contest_id": "abc087",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc087\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Buying Sweets",
+    "problem_url": "https://atcoder.jp/contests/abc087/tasks/abc087_a",
+    "submission_id": "AC2026435",
+    "submission_url": "https://atcoder.jp/contests/abc087/submissions/2026435",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/28/2018 19:01"
+  },
   "AC2027451": {
     "contest_id": "abc087",
     "language": "C++14 (GCC 5.4.1)",
