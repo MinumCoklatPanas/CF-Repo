@@ -687,6 +687,23 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF34978900": {
+    "contest_id": 761,
+    "language": "GNU C++11",
+    "path": "codeforces\\761\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Dasha and Password",
+    "problem_url": "https://codeforces.com/contest/761/problem/C",
+    "submission_id": "CF34978900",
+    "submission_url": "https://codeforces.com/contest/761/submission/34978900",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Feb/07/2018 00:55"
+  },
   "CF35000652": {
     "contest_id": 377,
     "language": "GNU C++11",
