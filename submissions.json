@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF35062894": {
+    "contest_id": 667,
+    "language": "GNU C++11",
+    "path": "codeforces\\667\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Reberland Linguistics",
+    "problem_url": "https://codeforces.com/contest/667/problem/C",
+    "submission_id": "CF35062894",
+    "submission_url": "https://codeforces.com/contest/667/submission/35062894",
+    "tags": [
+      "dp",
+      "strings",
+      "*1800"
+    ],
+    "timestamp": "Feb/08/2018 21:51"
+  },
   "CF35075639": {
     "contest_id": 580,
     "language": "GNU C++11",
