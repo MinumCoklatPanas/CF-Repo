@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF35060114": {
+    "contest_id": 667,
+    "language": "GNU C++11",
+    "path": "codeforces\\667\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Coat of Anticubism",
+    "problem_url": "https://codeforces.com/contest/667/problem/B",
+    "submission_id": "CF35060114",
+    "submission_url": "https://codeforces.com/contest/667/submission/35060114",
+    "tags": [
+      "constructive algorithms",
+      "geometry",
+      "*1100"
+    ],
+    "timestamp": "Feb/08/2018 20:33"
+  },
   "CF35062809": {
     "contest_id": 667,
     "language": "GNU C++11",
