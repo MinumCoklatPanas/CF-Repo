@@ -4,8 +4,6 @@ using namespace std;
 int main()
 {
 //	freopen("input.txt","r",stdin);
-	ios_base::sync_with_stdio(false);
-	cin.tie(NULL);
 	string s;
 	cin>>s;
 	pair<bool,bool> bisa[10010];
