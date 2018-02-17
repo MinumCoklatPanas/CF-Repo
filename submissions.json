@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF35384127": {
+    "contest_id": 608,
+    "language": "GNU C++11",
+    "path": "codeforces\\608\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Chain Reaction",
+    "problem_url": "https://codeforces.com/contest/608/problem/C",
+    "submission_id": "CF35384127",
+    "submission_url": "https://codeforces.com/contest/608/submission/35384127",
+    "tags": [
+      "dp",
+      "*1600"
+    ],
+    "timestamp": "Feb/17/2018 13:58"
+  },
   "CF35965389": {
     "contest_id": 931,
     "language": "GNU C++11",
