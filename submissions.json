@@ -1039,6 +1039,22 @@
     ],
     "timestamp": "Nov/22/2020 19:52"
   },
+  "AC2110679": {
+    "contest_id": "abc088",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc088\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Takahashi's Information",
+    "problem_url": "https://atcoder.jp/contests/abc088/tasks/abc088_c",
+    "submission_id": "AC2110679",
+    "submission_url": "https://atcoder.jp/contests/abc088/submissions/2110679",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/18/2018 19:29"
+  },
   "AC2128358": {
     "contest_id": "agc021",
     "language": "C++14 (GCC 5.4.1)",
