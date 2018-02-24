@@ -1039,6 +1039,22 @@
     ],
     "timestamp": "Nov/22/2020 19:52"
   },
+  "AC2128358": {
+    "contest_id": "agc021",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\agc021\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Digit Sum 2",
+    "problem_url": "https://atcoder.jp/contests/agc021/tasks/agc021_a",
+    "submission_id": "AC2128358",
+    "submission_url": "https://atcoder.jp/contests/agc021/submissions/2128358",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/24/2018 19:05"
+  },
   "AC2607258": {
     "contest_id": "agc025",
     "language": "C++14 (GCC 5.4.1)",
