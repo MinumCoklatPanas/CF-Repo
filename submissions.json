@@ -687,6 +687,20 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF36363737": {
+    "contest_id": 953,
+    "language": "GNU C++14",
+    "path": "codeforces\\953\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Add Points",
+    "problem_url": "https://codeforces.com/contest/953/problem/B",
+    "submission_id": "CF36363737",
+    "submission_url": "https://codeforces.com/contest/953/submission/36363737",
+    "tags": [
+      "*1800"
+    ],
+    "timestamp": "Mar/17/2018 23:46"
+  },
   "CF36416122": {
     "contest_id": 459,
     "language": "GNU C++11",
