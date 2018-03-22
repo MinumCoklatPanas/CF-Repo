@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF36473566": {
+    "contest_id": 954,
+    "language": "GNU C++11",
+    "path": "codeforces\\954\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "String Typing",
+    "problem_url": "https://codeforces.com/contest/954/problem/B",
+    "submission_id": "CF36473566",
+    "submission_url": "https://codeforces.com/contest/954/submission/36473566",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Mar/22/2018 13:23"
+  },
   "CF36489091": {
     "contest_id": 954,
     "language": "GNU C++11",
