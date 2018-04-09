@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF37123079": {
+    "contest_id": 960,
+    "language": "GNU C++11",
+    "path": "codeforces\\960\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Check the string",
+    "problem_url": "https://codeforces.com/contest/960/problem/A",
+    "submission_id": "CF37123079",
+    "submission_url": "https://codeforces.com/contest/960/submission/37123079",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Apr/09/2018 20:26"
+  },
   "CF37125528": {
     "contest_id": 960,
     "language": "GNU C++11",
