@@ -9,9 +9,6 @@ unordered_map<ll,bool> nyala;
 
 int main()
 {
-	ios_base::sync_with_stdio(false);
-	cin.tie(0);
-	cout.tie(0);
 //	 freopen("input.txt","r",stdin);
 	ll n;
 	cin>>n;
