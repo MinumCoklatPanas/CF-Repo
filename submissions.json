@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF37543930": {
+    "contest_id": 292,
+    "language": "GNU C++11",
+    "path": "codeforces\\292\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Copying Data",
+    "problem_url": "https://codeforces.com/contest/292/problem/E",
+    "submission_id": "CF37543930",
+    "submission_url": "https://codeforces.com/contest/292/submission/37543930",
+    "tags": [
+      "data structures",
+      "*1900"
+    ],
+    "timestamp": "Apr/23/2018 10:56"
+  },
   "CF37572796": {
     "contest_id": 964,
     "language": "GNU C++11",
