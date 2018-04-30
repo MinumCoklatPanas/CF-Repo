@@ -46,8 +46,8 @@ int main()
 		}
 	 }
 	school:;
-	int hehe;
 	assert((mn.size()==m) || (mn=="-1"));
 	assert((mx.size()==m) || (mx=="-1"));
 	cout<<mn<<" "<<mx<<"\n";
 }
+
