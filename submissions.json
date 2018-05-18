@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF38390732": {
+    "contest_id": 485,
+    "language": "GNU C++11",
+    "path": "codeforces\\485\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Valuable Resources",
+    "problem_url": "https://codeforces.com/contest/485/problem/B",
+    "submission_id": "CF38390732",
+    "submission_url": "https://codeforces.com/contest/485/submission/38390732",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "May/18/2018 13:05"
+  },
   "CF38416015": {
     "contest_id": 982,
     "language": "GNU C++11",
