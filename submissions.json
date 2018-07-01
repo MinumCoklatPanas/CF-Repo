@@ -1039,6 +1039,22 @@
     ],
     "timestamp": "Nov/22/2020 19:52"
   },
+  "AC2775934": {
+    "contest_id": "abc102",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc102\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Linear Approximation",
+    "problem_url": "https://atcoder.jp/contests/abc102/tasks/arc100_a",
+    "submission_id": "AC2775934",
+    "submission_url": "https://atcoder.jp/contests/abc102/submissions/2775934",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jul/01/2018 20:00"
+  },
   "AC3199633": {
     "contest_id": "agc027",
     "language": "C++14 (GCC 5.4.1)",
