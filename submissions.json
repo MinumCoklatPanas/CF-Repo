@@ -687,6 +687,23 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF43120800": {
+    "contest_id": 1051,
+    "language": "GNU C++11",
+    "path": "codeforces\\1051\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Vasya And Password",
+    "problem_url": "https://codeforces.com/contest/1051/problem/A",
+    "submission_id": "CF43120800",
+    "submission_url": "https://codeforces.com/contest/1051/submission/43120800",
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Sep/20/2018 22:00"
+  },
   "CF43122141": {
     "contest_id": 1051,
     "language": "GNU C++11",
