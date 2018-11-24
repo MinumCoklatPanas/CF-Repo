@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF46160551": {
+    "contest_id": 1080,
+    "language": "GNU C++17",
+    "path": "codeforces\\1080\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Masha and two friends",
+    "problem_url": "https://codeforces.com/contest/1080/problem/C",
+    "submission_id": "CF46160551",
+    "submission_url": "https://codeforces.com/contest/1080/submission/46160551",
+    "tags": [
+      "implementation",
+      "*1500"
+    ],
+    "timestamp": "Nov/24/2018 16:22"
+  },
   "CF46314016": {
     "contest_id": 1082,
     "language": "GNU C++17",
