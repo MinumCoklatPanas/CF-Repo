@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF47360824": {
+    "contest_id": 1092,
+    "language": "GNU C++11",
+    "path": "codeforces\\1092\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Uniform String",
+    "problem_url": "https://codeforces.com/contest/1092/problem/A",
+    "submission_id": "CF47360824",
+    "submission_url": "https://codeforces.com/contest/1092/submission/47360824",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/22/2018 15:38"
+  },
   "CF47360937": {
     "contest_id": 1092,
     "language": "GNU C++11",
