@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF48291723": {
+    "contest_id": 1102,
+    "language": "GNU C++17",
+    "path": "codeforces\\1102\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Integer Sequence Dividing",
+    "problem_url": "https://codeforces.com/contest/1102/problem/A",
+    "submission_id": "CF48291723",
+    "submission_url": "https://codeforces.com/contest/1102/submission/48291723",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/12/2019 20:04"
+  },
   "CF48292339": {
     "contest_id": 1102,
     "language": "GNU C++17",
