@@ -687,6 +687,23 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF50366925": {
+    "contest_id": 1131,
+    "language": "GNU C++17",
+    "path": "codeforces\\1131\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Birthday",
+    "problem_url": "https://codeforces.com/contest/1131/problem/C",
+    "submission_id": "CF50366925",
+    "submission_url": "https://codeforces.com/contest/1131/submission/50366925",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Feb/23/2019 17:59"
+  },
   "CF50436475": {
     "contest_id": 1130,
     "language": "GNU C++17",
