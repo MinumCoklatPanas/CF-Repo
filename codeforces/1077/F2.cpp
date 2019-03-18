@@ -90,9 +90,9 @@ int main()
         }
     }
     ll ans = -INFF;
-    // for (ll i = 0 ; i < x ; i++)
+    for (ll i = 0 ; i < x ; i++)
         for (ll j = n - k + 1 ; j <= n ; j++)
-            ans = max(ans,DP[0][j]);
+            ans = max(ans,DP[i][j]);
     if (ans == -INFF)
         cout << -1 << endl;
     else
