@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF52390130": {
+    "contest_id": 1119,
+    "language": "GNU C++17",
+    "path": "codeforces\\1119\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Ilya and a Colorful Walk",
+    "problem_url": "https://codeforces.com/contest/1119/problem/A",
+    "submission_id": "CF52390130",
+    "submission_url": "https://codeforces.com/contest/1119/submission/52390130",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Apr/06/2019 18:51"
+  },
   "CF52399820": {
     "contest_id": 1119,
     "language": "GNU C++17",
