@@ -1039,6 +1039,22 @@
     ],
     "timestamp": "Nov/22/2020 19:52"
   },
+  "AC5046279": {
+    "contest_id": "tenka1-2019-beginner",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\tenka1-2019-beginner\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "On the Way",
+    "problem_url": "https://atcoder.jp/contests/tenka1-2019-beginner/tasks/tenka1_2019_a",
+    "submission_id": "AC5046279",
+    "submission_url": "https://atcoder.jp/contests/tenka1-2019-beginner/submissions/5046279",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Apr/20/2019 19:25"
+  },
   "AC5056965": {
     "contest_id": "tenka1-2019-beginner",
     "language": "C++14 (GCC 5.4.1)",
