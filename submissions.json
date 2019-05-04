@@ -1039,6 +1039,22 @@
     ],
     "timestamp": "Nov/22/2020 19:52"
   },
+  "AC5257276": {
+    "contest_id": "agc033",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\agc033\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Darker and Darker",
+    "problem_url": "https://atcoder.jp/contests/agc033/tasks/agc033_a",
+    "submission_id": "AC5257276",
+    "submission_url": "https://atcoder.jp/contests/agc033/submissions/5257276",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "May/04/2019 19:09"
+  },
   "AC6373364": {
     "contest_id": "agc035",
     "language": "C++14 (GCC 5.4.1)",
