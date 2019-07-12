@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF56906641": {
+    "contest_id": 1191,
+    "language": "GNU C++14",
+    "path": "codeforces\\1191\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Tokitsukaze and Discard Items",
+    "problem_url": "https://codeforces.com/contest/1191/problem/C",
+    "submission_id": "CF56906641",
+    "submission_url": "https://codeforces.com/contest/1191/submission/56906641",
+    "tags": [
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Jul/12/2019 22:11"
+  },
   "CF57012888": {
     "contest_id": 1176,
     "language": "GNU C++14",
