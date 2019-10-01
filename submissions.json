@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF61627496": {
+    "contest_id": 1234,
+    "language": "GNU C++14",
+    "path": "codeforces\\1234\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Distinct Characters Queries",
+    "problem_url": "https://codeforces.com/contest/1234/problem/D",
+    "submission_id": "CF61627496",
+    "submission_url": "https://codeforces.com/contest/1234/submission/61627496",
+    "tags": [
+      "data structures",
+      "*1600"
+    ],
+    "timestamp": "Oct/01/2019 22:00"
+  },
   "CF61645764": {
     "contest_id": 1234,
     "language": "GNU C++14",
