@@ -1039,6 +1039,22 @@
     ],
     "timestamp": "Nov/22/2020 19:52"
   },
+  "AC8937437": {
+    "contest_id": "sumitrust2019",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\sumitrust2019\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Lucky PIN",
+    "problem_url": "https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_d",
+    "submission_id": "AC8937437",
+    "submission_url": "https://atcoder.jp/contests/sumitrust2019/submissions/8937437",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/13/2019 20:15"
+  },
   "CF100631111": {
     "contest_id": 550,
     "language": "GNU C++17",
