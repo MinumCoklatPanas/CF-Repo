@@ -687,6 +687,23 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF67476175": {
+    "contest_id": 1091,
+    "language": "GNU C++11",
+    "path": "codeforces\\1091\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "New Year and the Permutation Concatenation",
+    "problem_url": "https://codeforces.com/contest/1091/problem/D",
+    "submission_id": "CF67476175",
+    "submission_url": "https://codeforces.com/contest/1091/submission/67476175",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Dec/23/2019 21:26"
+  },
   "CF67717245": {
     "contest_id": 1279,
     "language": "GNU C++11",
