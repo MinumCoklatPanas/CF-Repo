@@ -687,6 +687,24 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF67473163": {
+    "contest_id": 1091,
+    "language": "GNU C++11",
+    "path": "codeforces\\1091\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "New Year and the Treasure Geolocation",
+    "problem_url": "https://codeforces.com/contest/1091/problem/B",
+    "submission_id": "CF67473163",
+    "submission_url": "https://codeforces.com/contest/1091/submission/67473163",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Dec/23/2019 20:28"
+  },
   "CF67474504": {
     "contest_id": 1091,
     "language": "GNU C++11",
