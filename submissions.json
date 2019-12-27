@@ -687,6 +687,23 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF67717245": {
+    "contest_id": 1279,
+    "language": "GNU C++11",
+    "path": "codeforces\\1279\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Verse For Santa",
+    "problem_url": "https://codeforces.com/contest/1279/problem/B",
+    "submission_id": "CF67717245",
+    "submission_url": "https://codeforces.com/contest/1279/submission/67717245",
+    "tags": [
+      "binary search",
+      "brute force",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Dec/27/2019 22:10"
+  },
   "CF67718417": {
     "contest_id": 1279,
     "language": "GNU C++11",
