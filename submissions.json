@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF67950089": {
+    "contest_id": 1283,
+    "language": "GNU C++11",
+    "path": "codeforces\\1283\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "New Year Parties",
+    "problem_url": "https://codeforces.com/contest/1283/problem/E",
+    "submission_id": "CF67950089",
+    "submission_url": "https://codeforces.com/contest/1283/submission/67950089",
+    "tags": [
+      "dp",
+      "greedy",
+      "*1800"
+    ],
+    "timestamp": "Dec/30/2019 14:15"
+  },
   "CF68080439": {
     "contest_id": 1282,
     "language": "GNU C++11",
