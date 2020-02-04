@@ -687,6 +687,25 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF70291607": {
+    "contest_id": 1296,
+    "language": "GNU C++11",
+    "path": "codeforces\\1296\\E1.cpp",
+    "problem_index": "E1",
+    "problem_name": "String Coloring (easy version)",
+    "problem_url": "https://codeforces.com/contest/1296/problem/E1",
+    "submission_id": "CF70291607",
+    "submission_url": "https://codeforces.com/contest/1296/submission/70291607",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "graphs",
+      "greedy",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "Feb/04/2020 23:19"
+  },
   "CF70425437": {
     "contest_id": 1287,
     "language": "GNU C++11",
