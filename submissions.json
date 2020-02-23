@@ -687,6 +687,23 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF71651709": {
+    "contest_id": 1300,
+    "language": "GNU C++11",
+    "path": "codeforces\\1300\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Assigning to Classes",
+    "problem_url": "https://codeforces.com/contest/1300/problem/B",
+    "submission_id": "CF71651709",
+    "submission_url": "https://codeforces.com/contest/1300/submission/71651709",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Feb/23/2020 15:07"
+  },
   "CF72062804": {
     "contest_id": 1300,
     "language": "GNU C++11",
