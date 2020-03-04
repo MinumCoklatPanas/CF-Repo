@@ -687,6 +687,25 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF72433518": {
+    "contest_id": 1316,
+    "language": "GNU C++11",
+    "path": "codeforces\\1316\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "String Modification",
+    "problem_url": "https://codeforces.com/contest/1316/problem/B",
+    "submission_id": "CF72433518",
+    "submission_url": "https://codeforces.com/contest/1316/submission/72433518",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "sortings",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Mar/04/2020 22:00"
+  },
   "CF73028135": {
     "contest_id": 1324,
     "language": "GNU C++11",
