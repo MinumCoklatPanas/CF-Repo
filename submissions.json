@@ -1,4 +1,20 @@
 {
+  "AC10608660": {
+    "contest_id": "abc158",
+    "language": "C++14 (GCC 5.4.1)",
+    "path": "atcoder\\abc158\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "String Formation",
+    "problem_url": "https://atcoder.jp/contests/abc158/tasks/abc158_d",
+    "submission_id": "AC10608660",
+    "submission_url": "https://atcoder.jp/contests/abc158/submissions/10608660",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Mar/07/2020 19:23"
+  },
   "AC12582255": {
     "contest_id": "abc165",
     "language": "C++ (GCC 9.2.1)",
