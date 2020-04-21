@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF77504187": {
+    "contest_id": 1343,
+    "language": "GNU C++11",
+    "path": "codeforces\\1343\\B.cpp",
+    "problem_index": "B",
+    "problem_name": "Balanced Array",
+    "problem_url": "https://codeforces.com/contest/1343/problem/B",
+    "submission_id": "CF77504187",
+    "submission_url": "https://codeforces.com/contest/1343/submission/77504187",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Apr/21/2020 21:58"
+  },
   "CF77517002": {
     "contest_id": 1343,
     "language": "GNU C++11",
