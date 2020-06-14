@@ -1,4 +1,20 @@
 {
+  "AC14321878": {
+    "contest_id": "abc170",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc170\\E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Smart Infants",
+    "problem_url": "https://atcoder.jp/contests/abc170/tasks/abc170_e",
+    "submission_id": "AC14321878",
+    "submission_url": "https://atcoder.jp/contests/abc170/submissions/14321878",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jun/14/2020 19:32"
+  },
   "AC14528053": {
     "contest_id": "abc171",
     "language": "C++ (GCC 9.2.1)",
