@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF84837150": {
+    "contest_id": 311,
+    "language": "GNU C++11",
+    "path": "codeforces\\311\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "The Closest Pair",
+    "problem_url": "https://codeforces.com/contest/311/problem/A",
+    "submission_id": "CF84837150",
+    "submission_url": "https://codeforces.com/contest/311/submission/84837150",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jun/24/2020 03:43"
+  },
   "CF84864647": {
     "contest_id": 375,
     "language": "GNU C++11",
