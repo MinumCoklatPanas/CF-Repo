@@ -85,6 +85,6 @@ int main()
     // cout << "-----------------------------------------\n";
     reverse(tab + 1,tab + n + 1);
     ans = min(ans,calc2());
-    cout << calc2() << endl;
+    cout << ans << endl;
     return 0;
 }
