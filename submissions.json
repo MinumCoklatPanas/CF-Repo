@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF84864647": {
+    "contest_id": 375,
+    "language": "GNU C++11",
+    "path": "codeforces\\375\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Divisible by Seven",
+    "problem_url": "https://codeforces.com/contest/375/problem/A",
+    "submission_id": "CF84864647",
+    "submission_url": "https://codeforces.com/contest/375/submission/84864647",
+    "tags": [
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Jun/24/2020 14:33"
+  },
   "CF85296386": {
     "contest_id": 1374,
     "language": "GNU C++17",
