@@ -1,4 +1,20 @@
 {
+  "AC14739161": {
+    "contest_id": "abc172",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc172\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Sum of Divisors",
+    "problem_url": "https://atcoder.jp/contests/abc172/tasks/abc172_d",
+    "submission_id": "AC14739161",
+    "submission_url": "https://atcoder.jp/contests/abc172/submissions/14739161",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jun/27/2020 19:11"
+  },
   "AC15142242": {
     "contest_id": "aising2020",
     "language": "C++ (GCC 9.2.1)",
