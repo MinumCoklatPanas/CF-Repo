@@ -687,6 +687,23 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF86038647": {
+    "contest_id": 39,
+    "language": "GNU C++17",
+    "path": "codeforces\\39\\J.cpp",
+    "problem_index": "J",
+    "problem_name": "Spelling Check",
+    "problem_url": "https://codeforces.com/contest/39/problem/J",
+    "submission_id": "CF86038647",
+    "submission_url": "https://codeforces.com/contest/39/submission/86038647",
+    "tags": [
+      "hashing",
+      "implementation",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Jul/05/2020 15:50"
+  },
   "CF86111625": {
     "contest_id": 959,
     "language": "GNU C++17",
