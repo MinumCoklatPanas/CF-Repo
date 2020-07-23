@@ -1,4 +1,20 @@
 {
+  "AC15375242": {
+    "contest_id": "abc161",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc161\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Replacing Integer",
+    "problem_url": "https://atcoder.jp/contests/abc161/tasks/abc161_c",
+    "submission_id": "AC15375242",
+    "submission_url": "https://atcoder.jp/contests/abc161/submissions/15375242",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jul/23/2020 16:49"
+  },
   "AC15392906": {
     "contest_id": "abc147",
     "language": "C++ (GCC 9.2.1)",
