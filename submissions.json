@@ -1,4 +1,20 @@
 {
+  "AC15375142": {
+    "contest_id": "abc161",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc161\\F.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Division or Subtraction",
+    "problem_url": "https://atcoder.jp/contests/abc161/tasks/abc161_f",
+    "submission_id": "AC15375142",
+    "submission_url": "https://atcoder.jp/contests/abc161/submissions/15375142",
+    "tags": [
+      "AtCoder",
+      "*600"
+    ],
+    "timestamp": "Jul/23/2020 16:42"
+  },
   "AC15375242": {
     "contest_id": "abc161",
     "language": "C++ (GCC 9.2.1)",
