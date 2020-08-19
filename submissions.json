@@ -687,6 +687,22 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF90361394": {
+    "contest_id": 88,
+    "language": "GNU C++14",
+    "path": "codeforces\\88\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Chord",
+    "problem_url": "https://codeforces.com/contest/88/problem/A",
+    "submission_id": "CF90361394",
+    "submission_url": "https://codeforces.com/contest/88/submission/90361394",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Aug/19/2020 13:03"
+  },
   "CF90361858": {
     "contest_id": 1266,
     "language": "GNU C++14",
