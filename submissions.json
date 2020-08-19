@@ -687,6 +687,23 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF90383353": {
+    "contest_id": 12,
+    "language": "GNU C++14",
+    "path": "codeforces\\12\\C.cpp",
+    "problem_index": "C",
+    "problem_name": "Fruits",
+    "problem_url": "https://codeforces.com/contest/12/problem/C",
+    "submission_id": "CF90383353",
+    "submission_url": "https://codeforces.com/contest/12/submission/90383353",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Aug/19/2020 18:26"
+  },
   "CF90383905": {
     "contest_id": 515,
     "language": "GNU C++14",
