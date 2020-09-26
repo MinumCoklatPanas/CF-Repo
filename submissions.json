@@ -1,4 +1,20 @@
 {
+  "AC17026498": {
+    "contest_id": "abl",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abl\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Connect Cities",
+    "problem_url": "https://atcoder.jp/contests/abl/tasks/abl_c",
+    "submission_id": "AC17026498",
+    "submission_url": "https://atcoder.jp/contests/abl/submissions/17026498",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Sep/26/2020 19:05"
+  },
   "AC17033740": {
     "contest_id": "abl",
     "language": "C++ (GCC 9.2.1)",
