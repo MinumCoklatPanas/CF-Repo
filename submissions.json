@@ -687,6 +687,20 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF94783224": {
+    "contest_id": 1424,
+    "language": "GNU C++17",
+    "path": "codeforces\\1424\\I.cpp",
+    "problem_index": "I",
+    "problem_name": "Bubble Cup hypothesis",
+    "problem_url": "https://codeforces.com/contest/1424/problem/I",
+    "submission_id": "CF94783224",
+    "submission_url": "https://codeforces.com/contest/1424/submission/94783224",
+    "tags": [
+      "*2400"
+    ],
+    "timestamp": "Oct/05/2020 22:01"
+  },
   "CF94802799": {
     "contest_id": 853,
     "language": "GNU C++17",
