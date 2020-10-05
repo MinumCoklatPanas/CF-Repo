@@ -687,6 +687,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF94802799": {
+    "contest_id": 853,
+    "language": "GNU C++17",
+    "path": "codeforces\\853\\A.cpp",
+    "problem_index": "A",
+    "problem_name": "Planning",
+    "problem_url": "https://codeforces.com/contest/853/problem/A",
+    "submission_id": "CF94802799",
+    "submission_url": "https://codeforces.com/contest/853/submission/94802799",
+    "tags": [
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Oct/06/2020 02:29"
+  },
   "CF94804069": {
     "contest_id": 358,
     "language": "GNU C++17",
