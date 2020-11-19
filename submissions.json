@@ -687,6 +687,24 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF98989230": {
+    "contest_id": 665,
+    "language": "GNU C++17",
+    "path": "codeforces\\665\\E.cpp",
+    "problem_index": "E",
+    "problem_name": "Beautiful Subarrays",
+    "problem_url": "https://codeforces.com/contest/665/problem/E",
+    "submission_id": "CF98989230",
+    "submission_url": "https://codeforces.com/contest/665/submission/98989230",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "strings",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "Nov/20/2020 05:57"
+  },
   "CF98989266": {
     "contest_id": 665,
     "language": "GNU C++17",

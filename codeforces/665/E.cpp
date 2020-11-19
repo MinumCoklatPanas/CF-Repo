@@ -44,6 +44,7 @@ void dfs(node *root, int &k, int curSum, ll& ans, int depth,int x)
     //     if (root -> child[1]) cout << "ada 1\n";
     //     cout << endl;
     // }
+    // cout << curSum + (1 << depth) - 1 << endl;
     if (curSum + (1ll << depth) - 1 < k) return;
     if (curSum >= k)
     {
@@ -66,11 +67,9 @@ void dfs(node *root, int &k, int curSum, ll& ans, int depth,int x)
 
 int main()
 {
-    ios_base::sync_with_stdio(false);
-    cin.tie(0);
-    cout.tie(0);
     int n,k;
-    cin >> n >> k;
+    scanf("%d %d",&n,&k);
+    // cin >> n >> k;
     int curXor = 0;
     node *root = new node;
     insert(root, 0);
@@ -79,11 +78,13 @@ int main()
     for (int i = 1 ; i <= n ; i++)
     {
         int ta;
-        cin >> ta;
+        scanf("%d",&ta);
         curXor ^= ta;
         insert(root, curXor);
         dfs(root, k, 0, ans, 31, curXor);
     }
-    cout << ans << endl;
+    // cout << ans << endl;
+    printf("%lld\n",ans);
     return 0;
 }
+
