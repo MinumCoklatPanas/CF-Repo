@@ -1,4 +1,20 @@
 {
+  "AC18329828": {
+    "contest_id": "abc184",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc184\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "increment of coins",
+    "problem_url": "https://atcoder.jp/contests/abc184/tasks/abc184_d",
+    "submission_id": "AC18329828",
+    "submission_url": "https://atcoder.jp/contests/abc184/submissions/18329828",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Nov/22/2020 19:52"
+  },
   "CF100631111": {
     "contest_id": 550,
     "language": "GNU C++17",
