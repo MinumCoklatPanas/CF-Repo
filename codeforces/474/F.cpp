@@ -48,33 +48,20 @@ struct mo
 int tree[400010];
 int tab[100010];
 
-void build(int node,int l,int r)
+void build(int n)
 {
-    if (l == r)
-    {
-        tree[node] = tab[l];
-        return;
-    }
-    int mid = (l + r) >> 1;
-    int child = node << 1;
-    build(child,l,mid);
-    build(child | 1, mid + 1,r);
-    tree[node] = __gcd(tree[child],tree[child | 1]);
+    for (int i = n - 1; i > 0; --i) tree[i] = __gcd(tree[i<<1],tree[i<<1|1]);
 }
 
-int query(int node,int nodeL,int nodeR,int queryL,int queryR)
+int query(int l,int r,int n)
 {
-    if (queryL > nodeR || queryR < nodeL) return -1;
-    if (queryL <= nodeL && nodeR <= queryR) return tree[node];
-    int mid = (nodeL + nodeR) >> 1;
-    int child = node << 1;
-    int kiri =  query(child,nodeL,mid,queryL,queryR);
-    if (kiri == 1) return 1;
-    int kanan = query(child | 1,mid + 1,nodeR,queryL,queryR);
-    if (kanan == 1) return 1;
-    if (kiri == -1) return kanan;
-    if (kanan == -1) return kiri;
-    return  __gcd(kiri,kanan);
+    int ret = tab[l];
+    for (l += n, r += n ; l < r ; l >>= 1, r >>= 1)
+    {
+        if (l & 1) ret = __gcd(ret,tree[l++]);
+        if (r & 1) ret = __gcd(ret,tree[--r]);
+    }
+    return ret;
 }
 
 mo queries[100010];
@@ -83,11 +70,13 @@ unordered_map<int,int> cnt;
 
 void add(int ix)
 {
+    if (ix < 0) return;
     ++cnt[tab[ix]];
 }
 
 void erase(int ix)
 {
+    if (ix < 0) return;
     --cnt[tab[ix]];
 }
 
@@ -99,8 +88,12 @@ int main()
     int n;
     // cin >> n;
     scanf("%d",&n);
-    for (int i = 1 ; i <= n ; i++) scanf("%d",&tab[i]);
-    build(1,1,n);
+    for (int i = 0 ; i < n ; i++) 
+    {
+        scanf("%d",&tab[i]);
+        tree[i + n] = tab[i];
+    }
+    build(n);
     int q;
     // cin >> q;
     scanf("%d",&q);
@@ -108,15 +101,16 @@ int main()
     {
         int l,r;
         scanf("%d %d",&l,&r);
+        --l; --r;
         // cin >> l >> r;
-        int k = query(1,1,n,l,r);
+        int k = query(l,r + 1,n);
         assert(k != -1);
         queries[i] = mo(l,r,k,i);
         // cout << l << " " << r << " " << k << endl;
     }
     sort(queries + 1,queries + q + 1);
-    int curL = 1;
-    int curR = 1;
+    int curL = 0;
+    int curR = 0;
     // cout << "yo\n";
     // return 0;
     for (int i = 1 ; i <= q ; i++)
