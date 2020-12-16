@@ -1,4 +1,21 @@
 {
+  "CF101461825": {
+    "contest_id": 1215,
+    "language": "GNU C++17",
+    "path": "codeforces\\1215\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Ticket Game",
+    "problem_url": "https://codeforces.com/contest/1215/problem/D",
+    "submission_id": "CF101461825",
+    "submission_url": "https://codeforces.com/contest/1215/submission/101461825",
+    "tags": [
+      "games",
+      "greedy",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Dec/17/2020 04:15"
+  },
   "CF101462285": {
     "contest_id": 1215,
     "language": "GNU C++17",
