@@ -12,4 +12,5 @@ A repository to keep track of problem solving practise, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1 | [D - Long Jumps](https://codeforces.com/contest/479/problem/D) | [GNU C++17](./codeforces/479/D.cpp) | `binary search` `greedy` `implementation` `*1700` | Dec/21/2020 06:19 | 
+2 | [D - Long Jumps](https://codeforces.com/contest/479/problem/D) | [GNU C++17](./codeforces/479/D.cpp) | `binary search` `greedy` `implementation` `*1700` | Dec/21/2020 06:19 | 
+1 | [C - Marina and Vasya](https://codeforces.com/contest/584/problem/C) | [GNU C++17](./codeforces/584/C.cpp) | `constructive algorithms` `greedy` `strings` `*1700` | Dec/21/2020 05:15 | 
