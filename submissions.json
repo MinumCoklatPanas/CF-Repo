@@ -1,0 +1,19 @@
+{
+  "CF101921584": {
+    "contest_id": 479,
+    "language": "GNU C++17",
+    "path": "codeforces\\479\\D.cpp",
+    "problem_index": "D",
+    "problem_name": "Long Jumps",
+    "problem_url": "https://codeforces.com/contest/479/problem/D",
+    "submission_id": "CF101921584",
+    "submission_url": "https://codeforces.com/contest/479/submission/101921584",
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Dec/21/2020 06:19"
+  }
+}
