@@ -3199,6 +3199,21 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF102722058": {
+    "contest_id": 1031,
+    "language": "GNU C++17",
+    "path": "codeforces\\1031\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Curiosity Has No Limits",
+    "problem_url": "https://codeforces.com/contest/1031/problem/B",
+    "submission_id": "CF102722058",
+    "submission_url": "https://codeforces.com/contest/1031/submission/102722058",
+    "tags": [
+      "*1500"
+    ],
+    "timestamp": "Dec/30/2020 03:24"
+  },
   "CF102725188": {
     "contest_id": 1404,
     "language": "GNU C++17",
