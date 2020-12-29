@@ -3199,6 +3199,23 @@
     ],
     "timestamp": "Dec/21/2020 06:19"
   },
+  "CF102726201": {
+    "contest_id": 859,
+    "language": "GNU C++17",
+    "path": "codeforces\\859\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Pie Rules",
+    "problem_url": "https://codeforces.com/contest/859/problem/C",
+    "submission_id": "CF102726201",
+    "submission_url": "https://codeforces.com/contest/859/submission/102726201",
+    "tags": [
+      "dp",
+      "games",
+      "*1500"
+    ],
+    "timestamp": "Dec/30/2020 05:21"
+  },
   "CF103274325": {
     "contest_id": 1472,
     "language": "GNU C++17",
