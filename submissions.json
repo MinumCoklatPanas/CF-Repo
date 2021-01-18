@@ -3358,6 +3358,23 @@
     ],
     "timestamp": "Jan/07/2021 07:31"
   },
+  "CF104721144": {
+    "contest_id": 360,
+    "language": "GNU C++17",
+    "path": "codeforces\\360\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Levko and Array Recovery",
+    "problem_url": "https://codeforces.com/contest/360/problem/A",
+    "submission_id": "CF104721144",
+    "submission_url": "https://codeforces.com/contest/360/submission/104721144",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Jan/19/2021 04:16"
+  },
   "CF104749058": {
     "contest_id": 590,
     "language": "GNU C++17",
