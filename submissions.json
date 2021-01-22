@@ -3358,6 +3358,23 @@
     ],
     "timestamp": "Jan/07/2021 07:31"
   },
+  "CF105078387": {
+    "contest_id": 741,
+    "language": "GNU C++17",
+    "path": "codeforces\\741\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Arpa's loud Owf and Mehrdad's evil plan",
+    "problem_url": "https://codeforces.com/contest/741/problem/A",
+    "submission_id": "CF105078387",
+    "submission_url": "https://codeforces.com/contest/741/submission/105078387",
+    "tags": [
+      "dfs and similar",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Jan/22/2021 23:47"
+  },
   "CF105082914": {
     "contest_id": 1065,
     "language": "GNU C++17",
