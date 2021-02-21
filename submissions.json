@@ -3358,6 +3358,25 @@
     ],
     "timestamp": "Jan/07/2021 07:31"
   },
+  "CF108112476": {
+    "contest_id": 689,
+    "language": "GNU C++17",
+    "path": "codeforces\\689\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mike and Shortcuts",
+    "problem_url": "https://codeforces.com/contest/689/problem/B",
+    "submission_id": "CF108112476",
+    "submission_url": "https://codeforces.com/contest/689/submission/108112476",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "shortest paths",
+      "*1600"
+    ],
+    "timestamp": "Feb/21/2021 22:54"
+  },
   "CF108230946": {
     "contest_id": 451,
     "language": "GNU C++17",
