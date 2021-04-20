@@ -3358,6 +3358,27 @@
     ],
     "timestamp": "Jan/07/2021 07:31"
   },
+  "CF113643154": {
+    "contest_id": 1497,
+    "language": "GNU C++17",
+    "path": "codeforces\\1497\\E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Square-free division (easy version)",
+    "problem_url": "https://codeforces.com/contest/1497/problem/E1",
+    "submission_id": "CF113643154",
+    "submission_url": "https://codeforces.com/contest/1497/submission/113643154",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "math",
+      "number theory",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Apr/21/2021 02:14"
+  },
   "CF113659245": {
     "contest_id": 283,
     "language": "GNU C++17",
