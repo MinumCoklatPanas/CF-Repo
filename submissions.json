@@ -3358,6 +3358,23 @@
     ],
     "timestamp": "Jan/07/2021 07:31"
   },
+  "CF113662700": {
+    "contest_id": 1051,
+    "language": "GNU C++17",
+    "path": "codeforces\\1051\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bicolorings",
+    "problem_url": "https://codeforces.com/contest/1051/problem/D",
+    "submission_id": "CF113662700",
+    "submission_url": "https://codeforces.com/contest/1051/submission/113662700",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "*1700"
+    ],
+    "timestamp": "Apr/21/2021 10:46"
+  },
   "CF113691389": {
     "contest_id": 574,
     "language": "GNU C++17",
