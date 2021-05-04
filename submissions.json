@@ -3358,6 +3358,24 @@
     ],
     "timestamp": "Jan/07/2021 07:31"
   },
+  "CF115109730": {
+    "contest_id": 535,
+    "language": "GNU C++17",
+    "path": "codeforces\\535\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Tavas and Karafs",
+    "problem_url": "https://codeforces.com/contest/535/problem/C",
+    "submission_id": "CF115109730",
+    "submission_url": "https://codeforces.com/contest/535/submission/115109730",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "May/04/2021 17:25"
+  },
   "CF115110804": {
     "contest_id": 731,
     "language": "GNU C++17",
