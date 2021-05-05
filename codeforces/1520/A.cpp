@@ -34,13 +34,12 @@ void solve()
     }
     cout << "YES\n";
 }
-//problem-url: https://codeforces.com/contest/1520/problem/A
+
 int main()
 {
     ios_base::sync_with_stdio(false);
     cin.tie(0);
     cout.tie(0);
-    int hehe = 0;
     int t;
     cin >> t;
     while (t--)
