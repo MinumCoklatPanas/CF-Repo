@@ -75,6 +75,6 @@ signed main()
             pengali %= k;
         }
     }
-    int hehe = 0;
+
     cout << ans << endl;
 }
