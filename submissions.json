@@ -4878,6 +4878,22 @@
     ],
     "timestamp": "May/16/2021 16:32"
   },
+  "CF116612529": {
+    "contest_id": 1067,
+    "language": "GNU C++17",
+    "path": "codeforces\\1067\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Array Without Local Maximums ",
+    "problem_url": "https://codeforces.com/contest/1067/problem/A",
+    "submission_id": "CF116612529",
+    "submission_url": "https://codeforces.com/contest/1067/submission/116612529",
+    "tags": [
+      "dp",
+      "*1900"
+    ],
+    "timestamp": "May/19/2021 11:34"
+  },
   "CF116689251": {
     "contest_id": 1508,
     "language": "GNU C++17",
