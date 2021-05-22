@@ -4878,6 +4878,22 @@
     ],
     "timestamp": "May/16/2021 16:32"
   },
+  "CF117046364": {
+    "contest_id": 250,
+    "language": "GNU C++17",
+    "path": "codeforces\\250\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Movie Critics",
+    "problem_url": "https://codeforces.com/contest/250/problem/C",
+    "submission_id": "CF117046364",
+    "submission_url": "https://codeforces.com/contest/250/submission/117046364",
+    "tags": [
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "May/23/2021 04:15"
+  },
   "CF117047411": {
     "contest_id": 1396,
     "language": "GNU C++17",
