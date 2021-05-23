@@ -4878,6 +4878,22 @@
     ],
     "timestamp": "May/16/2021 16:32"
   },
+  "CF117118726": {
+    "contest_id": 946,
+    "language": "GNU C++17",
+    "path": "codeforces\\946\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Timetable",
+    "problem_url": "https://codeforces.com/contest/946/problem/D",
+    "submission_id": "CF117118726",
+    "submission_url": "https://codeforces.com/contest/946/submission/117118726",
+    "tags": [
+      "dp",
+      "*1800"
+    ],
+    "timestamp": "May/24/2021 03:14"
+  },
   "CF117125353": {
     "contest_id": 1413,
     "language": "GNU C++17",
