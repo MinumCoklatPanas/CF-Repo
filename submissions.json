@@ -4878,6 +4878,23 @@
     ],
     "timestamp": "May/16/2021 16:32"
   },
+  "CF117541276": {
+    "contest_id": 818,
+    "language": "GNU C++17",
+    "path": "codeforces\\818\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Multicolored Cars",
+    "problem_url": "https://codeforces.com/contest/818/problem/D",
+    "submission_id": "CF117541276",
+    "submission_url": "https://codeforces.com/contest/818/submission/117541276",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "May/28/2021 08:47"
+  },
   "CF117595613": {
     "contest_id": 1526,
     "language": "GNU C++17",
