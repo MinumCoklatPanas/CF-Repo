@@ -4878,6 +4878,23 @@
     ],
     "timestamp": "May/16/2021 16:32"
   },
+  "CF117930596": {
+    "contest_id": 154,
+    "language": "GNU C++17",
+    "path": "codeforces\\154\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Colliders",
+    "problem_url": "https://codeforces.com/contest/154/problem/B",
+    "submission_id": "CF117930596",
+    "submission_url": "https://codeforces.com/contest/154/submission/117930596",
+    "tags": [
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "May/31/2021 03:13"
+  },
   "CF117932874": {
     "contest_id": 1005,
     "language": "GNU C++17",
