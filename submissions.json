@@ -5637,6 +5637,22 @@
     ],
     "timestamp": "May/31/2021 06:20"
   },
+  "CF118228721": {
+    "contest_id": 834,
+    "language": "GNU C++17",
+    "path": "codeforces\\834\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The Meaningless Game",
+    "problem_url": "https://codeforces.com/contest/834/problem/C",
+    "submission_id": "CF118228721",
+    "submission_url": "https://codeforces.com/contest/834/submission/118228721",
+    "tags": [
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jun/03/2021 04:48"
+  },
   "CF118460516": {
     "contest_id": 1535,
     "language": "GNU C++17",
