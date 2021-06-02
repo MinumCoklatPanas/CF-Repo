@@ -5637,6 +5637,24 @@
     ],
     "timestamp": "May/31/2021 06:20"
   },
+  "CF118225552": {
+    "contest_id": 798,
+    "language": "GNU C++17",
+    "path": "codeforces\\798\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mike and gcd problem",
+    "problem_url": "https://codeforces.com/contest/798/problem/C",
+    "submission_id": "CF118225552",
+    "submission_url": "https://codeforces.com/contest/798/submission/118225552",
+    "tags": [
+      "dp",
+      "greedy",
+      "number theory",
+      "*1700"
+    ],
+    "timestamp": "Jun/03/2021 03:30"
+  },
   "CF118228721": {
     "contest_id": 834,
     "language": "GNU C++17",
