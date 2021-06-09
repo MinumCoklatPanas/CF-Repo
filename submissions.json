@@ -5929,6 +5929,24 @@
     ],
     "timestamp": "Jun/08/2021 14:03"
   },
+  "CF118921714": {
+    "contest_id": 991,
+    "language": "GNU C++17",
+    "path": "codeforces\\991\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Bus Number",
+    "problem_url": "https://codeforces.com/contest/991/problem/E",
+    "submission_id": "CF118921714",
+    "submission_url": "https://codeforces.com/contest/991/submission/118921714",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "Jun/10/2021 07:50"
+  },
   "CF118979154": {
     "contest_id": 1538,
     "language": "GNU C++17",
