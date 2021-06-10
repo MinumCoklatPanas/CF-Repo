@@ -5929,6 +5929,24 @@
     ],
     "timestamp": "Jun/08/2021 14:03"
   },
+  "CF118979154": {
+    "contest_id": 1538,
+    "language": "GNU C++17",
+    "path": "codeforces\\1538\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Stone Game",
+    "problem_url": "https://codeforces.com/contest/1538/problem/A",
+    "submission_id": "CF118979154",
+    "submission_url": "https://codeforces.com/contest/1538/submission/118979154",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jun/10/2021 22:45"
+  },
   "CF118983985": {
     "contest_id": 1538,
     "language": "GNU C++17",
