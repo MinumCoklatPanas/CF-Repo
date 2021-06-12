@@ -5929,6 +5929,23 @@
     ],
     "timestamp": "Jun/08/2021 14:03"
   },
+  "CF119214443": {
+    "contest_id": 906,
+    "language": "GNU C++17",
+    "path": "codeforces\\906\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Shockers",
+    "problem_url": "https://codeforces.com/contest/906/problem/A",
+    "submission_id": "CF119214443",
+    "submission_url": "https://codeforces.com/contest/906/submission/119214443",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "Jun/12/2021 14:09"
+  },
   "CF119218418": {
     "contest_id": 888,
     "language": "GNU C++17",
