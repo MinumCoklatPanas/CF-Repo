@@ -5929,6 +5929,24 @@
     ],
     "timestamp": "Jun/08/2021 14:03"
   },
+  "CF119218418": {
+    "contest_id": 888,
+    "language": "GNU C++17",
+    "path": "codeforces\\888\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Almost Identity Permutations",
+    "problem_url": "https://codeforces.com/contest/888/problem/D",
+    "submission_id": "CF119218418",
+    "submission_url": "https://codeforces.com/contest/888/submission/119218418",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Jun/12/2021 14:58"
+  },
   "CF119220747": {
     "contest_id": 793,
     "language": "GNU C++17",
