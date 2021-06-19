@@ -2207,6 +2207,22 @@
     ],
     "timestamp": "Feb/24/2018 19:05"
   },
+  "AC23584266": {
+    "contest_id": "abc206",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc206\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Maxi-Buying",
+    "problem_url": "https://atcoder.jp/contests/abc206/tasks/abc206_a",
+    "submission_id": "AC23584266",
+    "submission_url": "https://atcoder.jp/contests/abc206/submissions/23584266",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jun/19/2021 20:09"
+  },
   "AC23591184": {
     "contest_id": "abc206",
     "language": "C++ (GCC 9.2.1)",
