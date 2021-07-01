@@ -5929,6 +5929,25 @@
     ],
     "timestamp": "Jun/08/2021 14:03"
   },
+  "CF121011809": {
+    "contest_id": 939,
+    "language": "GNU C++17",
+    "path": "codeforces\\939\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Maximize!",
+    "problem_url": "https://codeforces.com/contest/939/problem/E",
+    "submission_id": "CF121011809",
+    "submission_url": "https://codeforces.com/contest/939/submission/121011809",
+    "tags": [
+      "binary search",
+      "greedy",
+      "ternary search",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "Jul/01/2021 17:40"
+  },
   "CF121915008": {
     "contest_id": 1547,
     "language": "GNU C++17",
