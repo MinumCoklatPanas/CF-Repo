@@ -5929,6 +5929,23 @@
     ],
     "timestamp": "Jun/08/2021 14:03"
   },
+  "CF122963054": {
+    "contest_id": 387,
+    "language": "GNU C++17",
+    "path": "codeforces\\387\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "George and Number",
+    "problem_url": "https://codeforces.com/contest/387/problem/C",
+    "submission_id": "CF122963054",
+    "submission_url": "https://codeforces.com/contest/387/submission/122963054",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Jul/19/2021 04:36"
+  },
   "CF122963415": {
     "contest_id": 1213,
     "language": "GNU C++17",
