@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+1149 | [D - Sequence and Swaps](https://codeforces.com/contest/1455/problem/D) | [GNU C++17](./codeforces/1455/D.cpp) | `dp` `greedy` `sortings` `*1600` | Jul/31/2021 06:02 | 
 1148 | [D - Armchairs](https://codeforces.com/contest/1525/problem/D) | [GNU C++17](./codeforces/1525/D.cpp) | `dp` `flows` `graph matchings` `greedy` `*1800` | Jun/08/2021 14:03 | 
 1147 | [A - Fair Playoff](https://codeforces.com/contest/1535/problem/A) | [GNU C++17](./codeforces/1535/A.cpp) | `brute force` `implementation` `*800` | Jun/08/2021 13:47 | 
 1146 | [B - Array Reodering](https://codeforces.com/contest/1535/problem/B) | [GNU C++17](./codeforces/1535/B.cpp) | `brute force` `greedy` `math` `number theory` `sortings` `*900` | Jun/08/2021 13:45 | 
