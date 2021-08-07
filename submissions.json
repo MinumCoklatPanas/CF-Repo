@@ -7447,6 +7447,23 @@
     ],
     "timestamp": "Jul/31/2021 06:02"
   },
+  "CF125137321": {
+    "contest_id": 863,
+    "language": "GNU C++17",
+    "path": "codeforces\\863\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Yet Another Array Queries Problem",
+    "problem_url": "https://codeforces.com/contest/863/problem/D",
+    "submission_id": "CF125137321",
+    "submission_url": "https://codeforces.com/contest/863/submission/125137321",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "Aug/07/2021 20:24"
+  },
   "CF125173656": {
     "contest_id": 1363,
     "language": "GNU C++17",
