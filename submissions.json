@@ -7447,6 +7447,24 @@
     ],
     "timestamp": "Jul/31/2021 06:02"
   },
+  "CF125175932": {
+    "contest_id": 525,
+    "language": "GNU C++17",
+    "path": "codeforces\\525\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ilya and Sticks",
+    "problem_url": "https://codeforces.com/contest/525/problem/C",
+    "submission_id": "CF125175932",
+    "submission_url": "https://codeforces.com/contest/525/submission/125175932",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Aug/08/2021 08:00"
+  },
   "CF125177893": {
     "contest_id": 742,
     "language": "GNU C++17",
