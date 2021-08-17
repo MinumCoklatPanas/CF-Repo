@@ -7807,6 +7807,24 @@
     ],
     "timestamp": "Aug/12/2021 23:46"
   },
+  "CF126208436": {
+    "contest_id": 510,
+    "language": "GNU C++17",
+    "path": "codeforces\\510\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Fox And Names",
+    "problem_url": "https://codeforces.com/contest/510/problem/C",
+    "submission_id": "CF126208436",
+    "submission_url": "https://codeforces.com/contest/510/submission/126208436",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Aug/18/2021 03:08"
+  },
   "CF126449503": {
     "contest_id": 663,
     "language": "GNU C++17",
