@@ -7807,6 +7807,22 @@
     ],
     "timestamp": "Aug/12/2021 23:46"
   },
+  "CF127538004": {
+    "contest_id": 1187,
+    "language": "GNU C++17",
+    "path": "codeforces\\1187\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Stickers and Toys",
+    "problem_url": "https://codeforces.com/contest/1187/problem/A",
+    "submission_id": "CF127538004",
+    "submission_url": "https://codeforces.com/contest/1187/submission/127538004",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Aug/31/2021 23:19"
+  },
   "CF127538330": {
     "contest_id": 1187,
     "language": "GNU C++17",
