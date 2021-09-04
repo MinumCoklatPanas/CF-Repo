@@ -2207,6 +2207,22 @@
     ],
     "timestamp": "Feb/24/2018 19:05"
   },
+  "AC25575761": {
+    "contest_id": "abc217",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc217\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Cutting Woods",
+    "problem_url": "https://atcoder.jp/contests/abc217/tasks/abc217_d",
+    "submission_id": "AC25575761",
+    "submission_url": "https://atcoder.jp/contests/abc217/submissions/25575761",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Sep/04/2021 20:16"
+  },
   "AC25582106": {
     "contest_id": "abc217",
     "language": "C++ (GCC 9.2.1)",
