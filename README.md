@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1256 | [F - Array Stabilization (AND version)](https://codeforces.com/contest/1579/problem/F) | [GNU C++17](./codeforces/1579/F.cpp) | `brute force` `graphs` `math` `number theory` `shortest paths` `*1700` | Sep/29/2021 00:28 | 
-1255 | [C - Ticks](https://codeforces.com/contest/1579/problem/C) | [GNU C++17](./codeforces/1579/C.cpp) | `greedy` `implementation` `*1500` | Sep/28/2021 23:52 | 
-1254 | [D - Productive Meeting](https://codeforces.com/contest/1579/problem/D) | [GNU C++17](./codeforces/1579/D.cpp) | `constructive algorithms` `graphs` `greedy` `*1400` | Sep/28/2021 23:30 | 
-1253 | [E2 - Array Optimization by Deque](https://codeforces.com/contest/1579/problem/E2) | [GNU C++17](./codeforces/1579/E2.cpp) | `data structures` `greedy` `*1700` | Sep/28/2021 23:20 | 
-1252 | [E1 - Permutation Minimization by Deque](https://codeforces.com/contest/1579/problem/E1) | [GNU C++17](./codeforces/1579/E1.cpp) | `constructive algorithms` `greedy` `math` `*1000` | Sep/28/2021 22:58 | 
+1257 | [F - Array Stabilization (AND version)](https://codeforces.com/contest/1579/problem/F) | [GNU C++17](./codeforces/1579/F.cpp) | `brute force` `graphs` `math` `number theory` `shortest paths` `*1700` | Sep/29/2021 00:28 | 
+1256 | [C - Ticks](https://codeforces.com/contest/1579/problem/C) | [GNU C++17](./codeforces/1579/C.cpp) | `greedy` `implementation` `*1500` | Sep/28/2021 23:52 | 
+1255 | [D - Productive Meeting](https://codeforces.com/contest/1579/problem/D) | [GNU C++17](./codeforces/1579/D.cpp) | `constructive algorithms` `graphs` `greedy` `*1400` | Sep/28/2021 23:30 | 
+1254 | [E2 - Array Optimization by Deque](https://codeforces.com/contest/1579/problem/E2) | [GNU C++17](./codeforces/1579/E2.cpp) | `data structures` `greedy` `*1700` | Sep/28/2021 23:20 | 
+1253 | [E1 - Permutation Minimization by Deque](https://codeforces.com/contest/1579/problem/E1) | [GNU C++17](./codeforces/1579/E1.cpp) | `constructive algorithms` `greedy` `math` `*1000` | Sep/28/2021 22:58 | 
+1252 | [B - Shifting Sort](https://codeforces.com/contest/1579/problem/B) | [GNU C++17](./codeforces/1579/B.cpp) | `implementation` `sortings` `*1100` | Sep/28/2021 22:49 | 
 1251 | [C - Berland Regional](https://codeforces.com/contest/1519/problem/C) | [GNU C++17](./codeforces/1519/C.cpp) | `brute force` `data structures` `greedy` `number theory` `sortings` `*1400` | Aug/12/2021 23:46 | 
 1250 | [D - Maximum Sum of Products](https://codeforces.com/contest/1519/problem/D) | [GNU C++17](./codeforces/1519/D.cpp) | `brute force` `dp` `implementation` `math` `two pointers` `*1600` | Aug/12/2021 23:30 | 
 1249 | [B - The Cake Is a Lie](https://codeforces.com/contest/1519/problem/B) | [GNU C++17](./codeforces/1519/B.cpp) | `dp` `math` `*800` | Aug/12/2021 22:12 | 
