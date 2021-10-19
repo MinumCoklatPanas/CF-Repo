@@ -8456,6 +8456,26 @@
     ],
     "timestamp": "Sep/29/2021 00:28"
   },
+  "CF132453910": {
+    "contest_id": 1301,
+    "language": "GNU C++17",
+    "path": "codeforces\\1301\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ayoub's function",
+    "problem_url": "https://codeforces.com/contest/1301/problem/C",
+    "submission_id": "CF132453910",
+    "submission_url": "https://codeforces.com/contest/1301/submission/132453910",
+    "tags": [
+      "binary search",
+      "combinatorics",
+      "greedy",
+      "math",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "Oct/19/2021 23:11"
+  },
   "CF132463475": {
     "contest_id": 1430,
     "language": "GNU C++17",
