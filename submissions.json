@@ -2223,6 +2223,22 @@
     ],
     "timestamp": "Jun/03/2018 19:04"
   },
+  "AC26788117": {
+    "contest_id": "abc075",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc075\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Axis-Parallel Rectangle",
+    "problem_url": "https://atcoder.jp/contests/abc075/tasks/abc075_d",
+    "submission_id": "AC26788117",
+    "submission_url": "https://atcoder.jp/contests/abc075/submissions/26788117",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Oct/24/2021 02:35"
+  },
   "AC26788773": {
     "contest_id": "arc073",
     "language": "C++ (GCC 9.2.1)",
