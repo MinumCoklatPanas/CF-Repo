@@ -2223,6 +2223,22 @@
     ],
     "timestamp": "Jun/03/2018 19:04"
   },
+  "AC26792068": {
+    "contest_id": "abc222",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc222\\E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Red and Blue Tree",
+    "problem_url": "https://atcoder.jp/contests/abc222/tasks/abc222_e",
+    "submission_id": "AC26792068",
+    "submission_url": "https://atcoder.jp/contests/abc222/submissions/26792068",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Oct/24/2021 11:08"
+  },
   "AC27085413": {
     "contest_id": "abc226",
     "language": "C++ (GCC 9.2.1)",
