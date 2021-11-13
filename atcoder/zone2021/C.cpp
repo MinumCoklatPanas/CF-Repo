@@ -36,21 +36,20 @@ void solve()
             cin >> tab[i][j];
     const auto cek = [&](int x) -> bool
     {
+        set<int> st;
         for (int i = 1 ; i <= n ; i++)
         {
-            vector<bool> ada(32,0);
-            for (int j = i + 1 ; j <= n ; j++)
-            {
-                int mask = 0;
-                for (int k = 0 ; k < 5 ; k++) if (max(tab[i][k],tab[j][k]) >= x)
-                    mask |= (1 << k);
-                ada[mask] = 1;
-            }
-            if (ada[31]) return 1;
-            for (int j = 0 ; j < 32 ; j++) if (ada[j])
-                for (int k = 0 ; k < 32 ; k++) if (ada[k])
-                    if ((j | k) == 31) return 1;
+            int mask = 0;
+            for (int j = 0 ; j < 5 ; j++) if (tab[i][j] >= x)
+                mask |= (1 << j);
+            st.insert(mask);
         }
+        for (auto a : st)
+            for (auto b : st)
+                for (auto c : st)
+                {
+                    if ((a | b | c) == 31) return true;
+                }
         return 0;
     };
     int l = 1;

@@ -2543,6 +2543,22 @@
     ],
     "timestamp": "Nov/07/2021 20:30"
   },
+  "AC27222941": {
+    "contest_id": "zone2021",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\zone2021\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "MAD TEAM",
+    "problem_url": "https://atcoder.jp/contests/zone2021/tasks/zone2021_c",
+    "submission_id": "AC27222941",
+    "submission_url": "https://atcoder.jp/contests/zone2021/submissions/27222941",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Nov/13/2021 19:34"
+  },
   "AC27541740": {
     "contest_id": "abc229",
     "language": "C++ (GCC 9.2.1)",
