@@ -2543,6 +2543,22 @@
     ],
     "timestamp": "Nov/07/2021 20:30"
   },
+  "AC27658885": {
+    "contest_id": "abc230",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc230\\E.cpp",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Fraction Floor Sum",
+    "problem_url": "https://atcoder.jp/contests/abc230/tasks/abc230_e",
+    "submission_id": "AC27658885",
+    "submission_url": "https://atcoder.jp/contests/abc230/submissions/27658885",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Dec/03/2021 19:31"
+  },
   "AC27672779": {
     "contest_id": "abc230",
     "language": "C++ (GCC 9.2.1)",
