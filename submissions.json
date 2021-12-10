@@ -8910,6 +8910,24 @@
     ],
     "timestamp": "Oct/20/2021 00:51"
   },
+  "CF138651961": {
+    "contest_id": 872,
+    "language": "GNU C++17",
+    "path": "codeforces\\872\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Something with XOR Queries",
+    "problem_url": "https://codeforces.com/contest/872/problem/D",
+    "submission_id": "CF138651961",
+    "submission_url": "https://codeforces.com/contest/872/submission/138651961",
+    "tags": [
+      "brute force",
+      "implementation",
+      "interactive",
+      "*2000"
+    ],
+    "timestamp": "Dec/10/2021 23:07"
+  },
   "CF138678033": {
     "contest_id": 872,
     "language": "GNU C++17",
