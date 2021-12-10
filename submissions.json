@@ -8910,6 +8910,22 @@
     ],
     "timestamp": "Oct/20/2021 00:51"
   },
+  "CF138678033": {
+    "contest_id": 872,
+    "language": "GNU C++17",
+    "path": "codeforces\\872\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Points, Lines and Ready-made Titles",
+    "problem_url": "https://codeforces.com/contest/872/problem/E",
+    "submission_id": "CF138678033",
+    "submission_url": "https://codeforces.com/contest/872/submission/138678033",
+    "tags": [
+      "graphs",
+      "*2300"
+    ],
+    "timestamp": "Dec/11/2021 02:55"
+  },
   "CF138683036": {
     "contest_id": 1613,
     "language": "GNU C++17",
