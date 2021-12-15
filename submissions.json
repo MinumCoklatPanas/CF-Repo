@@ -8910,6 +8910,27 @@
     ],
     "timestamp": "Oct/20/2021 00:51"
   },
+  "CF139430846": {
+    "contest_id": 1608,
+    "language": "GNU C++17",
+    "path": "codeforces\\1608\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Game Master",
+    "problem_url": "https://codeforces.com/contest/1608/problem/C",
+    "submission_id": "CF139430846",
+    "submission_url": "https://codeforces.com/contest/1608/submission/139430846",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "greedy",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Dec/16/2021 03:12"
+  },
   "CF139432750": {
     "contest_id": 1465,
     "language": "GNU C++17",
