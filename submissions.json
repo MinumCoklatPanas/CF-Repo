@@ -2591,6 +2591,22 @@
     ],
     "timestamp": "Jul/01/2018 20:00"
   },
+  "AC27992658": {
+    "contest_id": "abc232",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc232\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Graph Isomorphism",
+    "problem_url": "https://atcoder.jp/contests/abc232/tasks/abc232_c",
+    "submission_id": "AC27992658",
+    "submission_url": "https://atcoder.jp/contests/abc232/submissions/27992658",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/19/2021 19:10"
+  },
   "AC27995332": {
     "contest_id": "abc232",
     "language": "C++ (GCC 9.2.1)",
