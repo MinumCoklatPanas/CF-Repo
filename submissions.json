@@ -2591,6 +2591,22 @@
     ],
     "timestamp": "Jul/01/2018 20:00"
   },
+  "AC27984856": {
+    "contest_id": "abc232",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc232\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "QQ solver",
+    "problem_url": "https://atcoder.jp/contests/abc232/tasks/abc232_a",
+    "submission_id": "AC27984856",
+    "submission_url": "https://atcoder.jp/contests/abc232/submissions/27984856",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/19/2021 19:01"
+  },
   "AC27988097": {
     "contest_id": "abc232",
     "language": "C++ (GCC 9.2.1)",
