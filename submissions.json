@@ -2591,6 +2591,22 @@
     ],
     "timestamp": "Jul/01/2018 20:00"
   },
+  "AC28122675": {
+    "contest_id": "abc233",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc233\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Count Interval",
+    "problem_url": "https://atcoder.jp/contests/abc233/tasks/abc233_d",
+    "submission_id": "AC28122675",
+    "submission_url": "https://atcoder.jp/contests/abc233/submissions/28122675",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/25/2021 19:14"
+  },
   "AC28134378": {
     "contest_id": "abc233",
     "language": "Python (3.8.2)",
