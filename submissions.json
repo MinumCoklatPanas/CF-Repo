@@ -2591,6 +2591,22 @@
     ],
     "timestamp": "Jul/01/2018 20:00"
   },
+  "AC28134378": {
+    "contest_id": "abc233",
+    "language": "Python (3.8.2)",
+    "path": "atcoder\\abc233\\E.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "\u03a3[k=0..10^100]floor(X\uff0f10^k)",
+    "problem_url": "https://atcoder.jp/contests/abc233/tasks/abc233_e",
+    "submission_id": "AC28134378",
+    "submission_url": "https://atcoder.jp/contests/abc233/submissions/28134378",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Dec/25/2021 19:47"
+  },
   "AC28140478": {
     "contest_id": "abc233",
     "language": "C++ (GCC 9.2.1)",
